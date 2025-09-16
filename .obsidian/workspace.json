@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Themes and Connections.md",
+                "file": "Sefaria/Rashi on Genesis 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key Themes and Connections"
+              "title": "Rashi on Genesis 4"
+            }
+          },
+          {
+            "id": "346540882ba26630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Description.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Description"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Claude - Biological origins of moral intuition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Themes and Connections.md",
+                "file": "Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Key Themes and Connections"
+              "title": "Backlinks for Description"
             }
           },
           {
@@ -127,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Themes and Connections.md",
+                "file": "Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Key Themes and Connections"
+              "title": "Outgoing links from Description"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Themes and Connections.md",
+                "file": "Description.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Key Themes and Connections"
+              "title": "Outline of Description"
             }
           }
         ]
@@ -183,14 +198,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6421d628f53cfec5",
+  "active": "346540882ba26630",
   "lastOpenFiles": [
-    "Notes/Claude - Biological origins of moral intuition.md",
+    "Adam and Eve's Moral Development.md",
+    "Sefaria/Mishnah Sanhedrin 4-5.md",
+    "Sefaria",
+    "Sefaria/Rashi on Genesis 4.md",
     "Key Themes and Connections.md",
+    "Clippings",
+    "Notes/Claude - Biological origins of moral intuition.md",
     "Samyaza as Narrator.md",
     "The Original Good - Reframing the Fall.md",
     "God as Potential Corruptor.md",
-    "Adam and Eve's Moral Development.md",
     "Biological Basis of Morality.md",
     "Awan - Moral Psychology Overview.md",
     "Untitled.base",
@@ -203,10 +222,10 @@
     "Awan - Moral Psychology Overview2.md",
     "Untitled.canvas",
     "Notes",
-    "Book of Jubilees/1/9.md",
-    "Book of Jubilees/1/8 - 26.md",
-    "Book of Jubilees/1/34.md",
-    "Book of Jubilees/1",
-    "Book of Jubilees"
+    "Sefaria/Book of Jubilees/1/9.md",
+    "Sefaria/Book of Jubilees/1/8 - 26.md",
+    "Sefaria/Book of Jubilees/1/34.md",
+    "Sefaria/Book of Jubilees/1",
+    "Sefaria/Book of Jubilees"
   ]
 }
