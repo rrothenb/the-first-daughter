@@ -1,5 +1,3 @@
-# Awan - Moral Psychology Overview
-
 ### The Othering Hypothesis
 
 - Humans can only judge negatively those they can psychologically distance themselves from
@@ -21,7 +19,7 @@
 - Unable to engage in simplified moral categories that enable justice
 - Possibly the first human to experience true universal empathy
 - Vulnerable to moral exhaustion from inability to distance from others' pain
-- When Cain kills Abel, she knows her brother's full humanity, not just "a murderer"
+- When [[Cain]] kills Abel, she knows her brother's full humanity, not just "a murderer"
 
 ### Original Human Consciousness
 

@@ -14,7 +14,7 @@ Based on textual analysis (especially Jubilees):
 - Created arbitrary prohibitions conflicting with natural curiosity (the tree)
 - Introduced shame where none existed (nakedness)
 - Modeled blame-shifting and punishment over restoration
-- Created competitive dynamics (Cain and Abel's offerings)
+- Created competitive dynamics ([[Cain]] and Abel's offerings)
 - Made bizarre, unhelpful commandments against natural instincts
 
 ### The Corruption Thesis
@@ -40,7 +40,7 @@ Based on textual analysis (especially Jubilees):
 - Created arbitrary prohibitions conflicting with natural curiosity (the tree)
 - Introduced shame where none existed (nakedness)
 - Modeled blame-shifting and punishment over restoration
-- Created competitive dynamics (Cain and Abel's offerings)
+- Created competitive dynamics ([[Cain]] and Abel's offerings)
 - Made bizarre, unhelpful commandments against natural instincts
 
 ### The Corruption Thesis
