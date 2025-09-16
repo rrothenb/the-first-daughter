@@ -11,10 +11,28 @@
             "id": "6421d628f53cfec5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Key Themes and Connections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Themes and Connections"
+            }
+          },
+          {
+            "id": "f51f59c6fe1650f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Claude - Biological origins of moral intuition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude - Biological origins of moral intuition"
             }
           }
         ]
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Awantag:#Awan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Key Themes and Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Key Themes and Connections"
             }
           },
           {
@@ -108,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Key Themes and Connections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Key Themes and Connections"
             }
           },
           {
@@ -136,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Key Themes and Connections.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Key Themes and Connections"
             }
           }
         ]
@@ -164,9 +185,23 @@
   },
   "active": "6421d628f53cfec5",
   "lastOpenFiles": [
-    "Description.md",
+    "Notes/Claude - Biological origins of moral intuition.md",
+    "Key Themes and Connections.md",
+    "Samyaza as Narrator.md",
+    "The Original Good - Reframing the Fall.md",
+    "God as Potential Corruptor.md",
+    "Adam and Eve's Moral Development.md",
+    "Biological Basis of Morality.md",
+    "Awan - Moral Psychology Overview.md",
+    "Untitled.base",
+    "Notes/Untitled",
+    "Untitled 1.base",
     "Notes/What is God Like?.md",
     "Notes/WTF.md",
+    "Description.md",
+    "Notes/Awan - Moral Psychology Overview.md",
+    "Awan - Moral Psychology Overview2.md",
+    "Untitled.canvas",
     "Notes",
     "Book of Jubilees/1/9.md",
     "Book of Jubilees/1/8 - 26.md",
