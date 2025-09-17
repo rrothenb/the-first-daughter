@@ -1,3 +1,5 @@
+OK.  This is SO not working.  There's already too much stuff in this repo.  I have to be more efficient. I shouldn't duplicate any text, just provide links to relevant documents.  I shouldn't duplicate anything already in a conversation, just provide maybe the name of the conversation or maybe the shared link to it.  Claude is for research and brainstorming.  Obsidian is for succinct notes that will inform the actual novel.  Stuff that will be used to construct it.  Nothing extraneous.  I don't need to know where stuff is in the conversations of a project because I should always be able to ask Claude to look for them.
+
 Probably need to stop asking Claude for summaries as I don't think I like them.  Better for me to cut out the pieces I like.
 
 Maybe the next phase of this process is just figuring out how to use Obsidian in a way that works for me.
