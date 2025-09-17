@@ -1,14 +1,14 @@
-# Effects on Awan - Psychological Development
+# Effects on [[Awan]] - Psychological Development
 
 ## Triple Trauma Exposure
 
-Based on research on children of narcissistic and traumatized parents, Awan would experience:
+Based on research on children of narcissistic and traumatized parents, [[Awan]] would experience:
 
 - **Divine narcissistic abuse** (God's inconsistent, demanding behavior)
 - **Parental trauma transmission** (Adam & Eve's unresolved Eden loss)
 - **Developmental attachment disruption** (parents who can't model healthy relationships)
 
-## Likely Awan Profile
+## Likely [[Awan]] Profile
 
 - Hypervigilance around divine/parental approval
 - Identity confusion (who is she apart from family drama?)

@@ -10,4 +10,4 @@
 
 - **Unresolved trauma** interfering with Eve's expectations and perceptions of her child
 - **Inability to sensitively respond** to infant emotional cues
-- **Compromised development of secure attachment** in Awan
+- **Compromised development of secure attachment** in [[Awan]]

@@ -2,7 +2,7 @@
 
 ## Unprecedented Learning Experiences
 
-Since death hadn't entered the world before the Fall, Awan's first encounters with:
+Since death hadn't entered the world before the Fall, [[Awan]]'s first encounters with:
 
 - Animal death
 - Plant decay
