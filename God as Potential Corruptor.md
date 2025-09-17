@@ -1,5 +1,3 @@
-# God as Potential Corruptor
-
 ### Divine Psychological Patterns
 
 Based on textual analysis (especially Jubilees):
@@ -9,7 +7,7 @@ Based on textual analysis (especially Jubilees):
 - **Borderline patterns**: Extreme splitting, unstable relationships
 - **Control/Manipulation**: Sets up failure scenarios, then blames victims
 
-### God's Role in the Fall
+### [[God]]'s Role in the Fall
 
 - Created arbitrary prohibitions conflicting with natural curiosity (the tree)
 - Introduced shame where none existed (nakedness)
@@ -24,7 +22,7 @@ Based on textual analysis (especially Jubilees):
 - Replaced embodied wisdom with artificial divine categories
 - Created conflict between natural empathy and divine commands
 
-# God as Potential Corruptor
+# [[God]] as Potential Corruptor
 
 ### Divine Psychological Patterns
 
@@ -35,7 +33,7 @@ Based on textual analysis (especially Jubilees):
 - **Borderline patterns**: Extreme splitting, unstable relationships
 - **Control/Manipulation**: Sets up failure scenarios, then blames victims
 
-### God's Role in the Fall
+### [[God]]'s Role in the Fall
 
 - Created arbitrary prohibitions conflicting with natural curiosity (the tree)
 - Introduced shame where none existed (nakedness)

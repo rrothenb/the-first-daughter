@@ -1,5 +1,3 @@
-# Biological Basis of Morality
-
 ### Neurological Evidence
 
 - **Mirror Neurons**: Fire both when experiencing and witnessing others' pain
@@ -34,7 +32,7 @@
 
 ### Pre-Tree Natural Morality
 
-- Adam and Eve should have had innate moral intuitions from being embodied beings
+- [[Adam]] and [[Eve]] should have had innate moral intuitions from being embodied beings
 - Sense of fairness from balance
 - Basic empathy through mirror neurons
 - Disgust responses

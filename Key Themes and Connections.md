@@ -1,5 +1,3 @@
-# Key Themes and Connections
-
 ### Links Between Notes
 
 - [[Awan - Moral Psychology Overview]] ← → [[The Original Good - Reframing the Fall]]
@@ -9,7 +7,7 @@
 
 ### Central Thesis
 
-Awan represents the last generation of original human consciousness - unable to "other" anyone, possessing natural embodied morality, corrupted not by inherent evil but by conflicting supernatural moral systems imposed from outside.
+[[Awan]] represents the last generation of original human consciousness - unable to "other" anyone, possessing natural embodied morality, corrupted not by inherent evil but by conflicting supernatural moral systems imposed from outside.
 
 ### Research Support
 
@@ -29,7 +27,7 @@ Awan represents the last generation of original human consciousness - unable to 
 
 ### Central Thesis
 
-Awan represents the last generation of original human consciousness - unable to "other" anyone, possessing natural embodied morality, corrupted not by inherent evil but by conflicting supernatural moral systems imposed from outside.
+[[Awan]] represents the last generation of original human consciousness - unable to "other" anyone, possessing natural embodied morality, corrupted not by inherent evil but by conflicting supernatural moral systems imposed from outside.
 
 ### Research Support
 

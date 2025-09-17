@@ -1,5 +1,3 @@
-# The Original Good - Reframing the Fall
-
 ### Original Human Moral State
 
 - Natural empathy from mirror neurons
@@ -34,7 +32,7 @@
     - Follow abstract laws rather than embodied wisdom
 - Development of "othering" as cognitive defense mechanism
 
-### Why Awan's Line Was Destroyed
+### Why [[Awan]]'s Line Was Destroyed
 
 - Not because they were evil
 - But because they retained original consciousness

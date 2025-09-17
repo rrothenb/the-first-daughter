@@ -8,7 +8,7 @@ tags:
 
 1
 
-Now the Human knew his wife Eve, and she conceived and bore [[Cain]], saying, “I have gained a person with the help of יהוה.”
+Now the Human knew his wife [[Eve]], and she conceived and bore [[Cain]], saying, “I have gained a person with the help of יהוה.”
 
 2
 
@@ -24,7 +24,7 @@ and Abel, for his part, brought the choicest of the firstlings of his flock. pai
 
 5
 
-but to [[Cain]] and his offering \[God\] paid no heed. [[Cain]] was much distressed and his face fell.
+but to [[Cain]] and his offering \[[[God]]\] paid no heed. [[Cain]] was much distressed and his face fell.
 
 6
 
@@ -116,7 +116,7 @@ Then Lamech seventy-sevenfold.”
 
 25
 
-Adam knew his wife again, and she bore a son and named him Seth, meaning, “God has provided me with <sup>*</sup> ***provided me with** Or “established for me”; Heb. *shath*, connected with “Seth.”* another offspring in place of Abel,” for [[Cain]] had killed him.
+[[Adam]] knew his wife again, and she bore a son and named him Seth, meaning, “[[God]] has provided me with <sup>*</sup> ***provided me with** Or “established for me”; Heb. *shath*, connected with “Seth.”* another offspring in place of Abel,” for [[Cain]] had killed him.
 
 26
 

@@ -1,5 +1,3 @@
-# Adam and Eve's Moral Development
-
 ### What They Knew When
 
 #### At Creation
@@ -13,7 +11,7 @@
 
 - Moral awareness - distinction between good and evil
 - Shame and modesty about nakedness
-- Fear and hiding from God
+- Fear and hiding from [[God]]
 - Self-consciousness as moral agents
 - Guilt and blame-shifting abilities
 
@@ -23,7 +21,7 @@
 - But first response was morally questionable (blame-shifting)
 - **Incomplete moral development**:
 
-# Adam and Eve's Moral Development
+# [[Adam]] and [[Eve]]'s Moral Development
 
 ### What They Knew When
 
@@ -38,7 +36,7 @@
 
 - Moral awareness - distinction between good and evil
 - Shame and modesty about nakedness
-- Fear and hiding from God
+- Fear and hiding from [[God]]
 - Self-consciousness as moral agents
 - Guilt and blame-shifting abilities
 
@@ -55,8 +53,8 @@
 ### Psychological Profile
 
 - **Developmental Arrest**: Adult bodies with child-like emotional regulation
-- **Attachment Disorders**: Anxious-preoccupied with God, disorganized with children
+- **Attachment Disorders**: Anxious-preoccupied with [[God]], disorganized with children
 - **Trauma**: PTSD from expulsion, complex trauma from the Fall
 - **Parental Inadequacy**: No template for parent-child relationships
-- **Codependency with God**: Learned helplessness, identity fusion
-- Created without childhood experiences yet dependent on God in childlike manner
+- **Codependency with [[God]]**: Learned helplessness, identity fusion
+- Created without childhood experiences yet dependent on [[God]] in childlike manner
