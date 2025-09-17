@@ -1,12 +1,34 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Themes  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Sefaria  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 13.4147135416667,
   "linkStrength": 0.278483072916667,
   "linkDistance": 500,
-  "scale": 1.662412113321525,
+  "scale": 1.2391047754747087,
   "close": true
 }

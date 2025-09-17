@@ -47,3 +47,5 @@ Based on textual analysis (especially Jubilees):
 - "Knowledge of good and evil" overrode naturally good human instincts
 - Replaced embodied wisdom with artificial divine categories
 - Created conflict between natural empathy and divine commands
+
+#theme

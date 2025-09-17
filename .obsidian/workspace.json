@@ -25,10 +25,14 @@
             "id": "346540882ba26630",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Awan - Moral Psychology Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Awan - Moral Psychology Overview"
             }
           },
           {
@@ -117,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Description.md",
+                "file": "Themes/God as Potential Corruptor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Description"
+              "title": "God as Potential Corruptor"
             }
           },
           {
@@ -140,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Description.md",
+                "file": "Awan - Moral Psychology Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +237,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Description"
+              "title": "Backlinks for Awan - Moral Psychology Overview"
             }
           },
           {
@@ -242,11 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Awan - Moral Psychology Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Awan - Moral Psychology Overview"
             }
           },
           {
@@ -307,42 +312,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4aba11204544738",
+  "active": "abcebba6b6a14e01",
   "lastOpenFiles": [
-    "Building Morality from First Principles - Beyond Natural Assumptions.md",
+    "Themes/Adam and Eve as worst parents.md",
+    "Specific Parenting Failures and Misunderstandings.md",
+    "Claude - Biological origins of moral intuition.md",
+    "Story Implications - The Worst Parents Framework.md",
+    "The Death Before Death Problem.md",
+    "Intergenerational Trauma Transmission.md",
+    "Effects on Awan - Psychological Development.md",
+    "The Shame Teaching Problem.md",
+    "Psychological Profile of Adam and Eve as Parents.md",
+    "Adam and Eve as Inadequate Parents - Core Concept.md",
+    "Themes/God as Potential Corruptor.md",
     "Characters/Samyaza.md",
     "Characters/God.md",
     "Characters/Eve.md",
     "Characters/Cain.md",
     "Characters/Awan.md",
     "Characters/Adam.md",
+    "Notes/WTF.md",
+    "Notes/What is God Like?.md",
+    "Themes/Untitled.md",
+    "Key Themes and Connections.md",
+    "Description.md",
+    "Building Morality from First Principles - Beyond Natural Assumptions.md",
     "The Original Good - Reframing the Fall.md",
     "Samyaza as Narrator.md",
-    "Key Themes and Connections.md",
-    "God as Potential Corruptor.md",
     "Biological Basis of Morality.md",
-    "Awan - Moral Psychology Overview.md",
-    "Adam and Eve's Moral Development.md",
     "Themes",
     "Characters",
-    "Description.md",
-    "Sefaria/Mishnah Sanhedrin 4-5.md",
     "Sefaria",
-    "Sefaria/Rashi on Genesis 4.md",
     "Clippings",
-    "Notes/Claude - Biological origins of moral intuition.md",
     "Untitled.base",
     "Notes/Untitled",
     "Untitled 1.base",
-    "Notes/What is God Like?.md",
-    "Notes/WTF.md",
-    "Notes/Awan - Moral Psychology Overview.md",
-    "Awan - Moral Psychology Overview2.md",
     "Untitled.canvas",
     "Notes",
-    "Sefaria/Book of Jubilees/1/9.md",
-    "Sefaria/Book of Jubilees/1/8 - 26.md",
-    "Sefaria/Book of Jubilees/1/34.md",
     "Sefaria/Book of Jubilees/1",
     "Sefaria/Book of Jubilees"
   ]
