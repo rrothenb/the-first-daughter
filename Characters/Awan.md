@@ -1,3 +1,3 @@
-todo: add stuff here
+[[todo]]: add stuff here
 
 #character
