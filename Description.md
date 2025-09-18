@@ -1,3 +1,0 @@
-This is where I'll be keeping notes and stuff for the novel.
-
-Someday.
