@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Conversations/Samyaza and the fallen angels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Samyaza and the fallen angels"
+            }
+          },
+          {
+            "id": "d0eb9d2707794bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversations/Samyaza Mythical Origins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Samyaza Mythical Origins"
             }
           },
           {
@@ -144,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Conversations/Samyaza Mythical Origins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +251,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Samyaza Mythical Origins"
             }
           },
           {
@@ -246,12 +260,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Conversations/Samyaza Mythical Origins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Samyaza Mythical Origins"
             }
           },
           {
@@ -312,8 +326,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9ca564c06716d50",
+  "active": "d0eb9d2707794bad",
   "lastOpenFiles": [
+    "Conversations/Samyaza and the fallen angels.md",
+    "Conversations/Reimagining moral foundations from scratch.md",
+    "Conversations/Project files storage status.md",
+    "Conversations/Obsidian vault organization review.md",
+    "Conversations/Novel Writing Progress Assessment.md",
+    "Conversations/Novel worldbuilding notes organization.md",
+    "Conversations/Location of Cain's City Enoch.md",
+    "Conversations/Landscape of Ancient Awan.md",
+    "Conversations/Fiction Recommendations Sought.md",
+    "Conversations/Early Inhabitants of Mesopotamia.md",
+    "Conversations/DSM-5 Psychological Diagnosis Analysis.md",
+    "Conversations/Creative Project Management Strategy.md",
+    "Conversations/Biological origins of moral intuition.md",
+    "Conversations/Biblical Mark of Cain.md",
+    "Conversations/Biblical family dynamics and divine favoritism.md",
+    "Conversations/Biblical Characters Moral Complexity.md",
+    "Conversations/Awan's Sensory Landscape.md",
+    "Conversations/Ancient Mesopotamian Landscape Geography.md",
+    "Conversations/Adam and Eve's parental failures.md",
+    "Conversations/All conversations.md",
+    "Conversations/Samyaza Mythical Origins.md",
+    "Todo.md",
     "Seasons",
     "Places",
     "Events",
@@ -322,34 +358,12 @@
     "Characters/Awan.md",
     "Characters/Cain.md",
     "Characters/Eve.md",
-    "Characters/God.md",
-    "Characters/Samyaza.md",
-    "Todo.md",
-    "Themes/God as Potential Corruptor.md",
-    "Themes/Adam and Eve as worst parents.md",
-    "Adam and Eve as Inadequate Parents - Core Concept.md",
-    "Awan - Moral Psychology Overview.md",
-    "Specific Parenting Failures and Misunderstandings.md",
-    "Claude - Biological origins of moral intuition.md",
-    "Story Implications - The Worst Parents Framework.md",
-    "The Death Before Death Problem.md",
-    "Intergenerational Trauma Transmission.md",
-    "Effects on Awan - Psychological Development.md",
-    "The Shame Teaching Problem.md",
-    "Psychological Profile of Adam and Eve as Parents.md",
-    "Notes/WTF.md",
-    "Notes/What is God Like?.md",
-    "Themes/Untitled.md",
-    "Key Themes and Connections.md",
-    "Description.md",
-    "Building Morality from First Principles - Beyond Natural Assumptions.md",
     "Themes",
     "Characters",
     "Sefaria",
     "Clippings",
     "Untitled.base",
     "Notes/Untitled",
-    "Untitled 1.base",
     "Untitled.canvas"
   ]
 }
