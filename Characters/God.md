@@ -1,3 +1,1 @@
-[[8 - 26]] gives us some indication as to what a dick [[god]] is. "And I shall hide My face from them, and I shall deliver them into the hand of the Gentiles for captivity, and for a prey, and for devouring, and I shall remove them from the midst of the land, and I shall scatter them amongst the Gentiles." - sounds like he has forsaken them.
-
 #character

@@ -1,3 +1,3 @@
-[[todo]]: fill this in with something
+todo: fill this in with something
 
 #character

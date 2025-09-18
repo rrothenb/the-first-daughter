@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversations/Samyaza Mythical Origins.md",
+                "file": "Conversations/Novel Writing Progress Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samyaza Mythical Origins"
+              "title": "Novel Writing Progress Assessment"
             }
           },
           {
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversations/Samyaza Mythical Origins.md",
+                "file": "Conversations/Novel Writing Progress Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Samyaza Mythical Origins"
+              "title": "Backlinks for Novel Writing Progress Assessment"
             }
           },
           {
@@ -260,12 +260,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversations/Samyaza Mythical Origins.md",
+                "file": "Conversations/Novel Writing Progress Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Samyaza Mythical Origins"
+              "title": "Outgoing links from Novel Writing Progress Assessment"
             }
           },
           {
@@ -326,8 +326,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0eb9d2707794bad",
+  "active": "abcebba6b6a14e01",
   "lastOpenFiles": [
+    "Conversations/Sexual ethics in early biblical humanity.md",
+    "Conversations/Adam and Eve's parental failures.md",
+    "Conversations/Untitled.md",
+    "Todo.md",
+    "Characters/Awan.md",
+    "Characters/Adam.md",
+    "Characters/Cain.md",
+    "Characters/Eve.md",
+    "Characters/God.md",
+    "Characters/Samyaza.md",
+    "8 - 26.md",
+    "Conversations/Samyaza Mythical Origins.md",
     "Conversations/Samyaza and the fallen angels.md",
     "Conversations/Reimagining moral foundations from scratch.md",
     "Conversations/Project files storage status.md",
@@ -342,22 +354,10 @@
     "Conversations/Creative Project Management Strategy.md",
     "Conversations/Biological origins of moral intuition.md",
     "Conversations/Biblical Mark of Cain.md",
-    "Conversations/Biblical family dynamics and divine favoritism.md",
-    "Conversations/Biblical Characters Moral Complexity.md",
-    "Conversations/Awan's Sensory Landscape.md",
-    "Conversations/Ancient Mesopotamian Landscape Geography.md",
-    "Conversations/Adam and Eve's parental failures.md",
-    "Conversations/All conversations.md",
-    "Conversations/Samyaza Mythical Origins.md",
-    "Todo.md",
     "Seasons",
     "Places",
     "Events",
     "Conversations",
-    "Characters/Adam.md",
-    "Characters/Awan.md",
-    "Characters/Cain.md",
-    "Characters/Eve.md",
     "Themes",
     "Characters",
     "Sefaria",
