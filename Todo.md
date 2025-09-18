@@ -1,3 +1,10 @@
+Start identifying Claude conversations that haven't been captured in Obsidian.  Come up with a scheme for recognizing which conversations have been done and for being able to go back to a conversation to discuss a note in obsidian.  Maybe need a note for each conversation with the last thing captured in a directory called Claude Conversations
+
+Add the instructions I had Claude come up with for the timeline and for avoiding traditional morality assumptions
+
+Key themes that I've definitely decided on that violate conventional wisdom may need to go in the instructions.  I've had to repeat myself multiple times about Abel's death.  Here's an example that I can mine for instructions:
+- One thing that occurs to me about "Love Without Models" is that I'm not convinced that she'd have any problem with it. I'm not sure if what Cain did was intentional. How would he even have known that he could kill Abel? They'd never even seen anybody die, let alone seen that it was possible to kill. They kind of had to take god's word for it that it was bad. "Am i my brother's keeper" could have been meant unironically, which is probably the more likely case than him having the sophistication to lie or misrepresent.
+
 OK.  This is SO not working.  There's already too much stuff in this repo.  I have to be more efficient. I shouldn't duplicate any text, just provide links to relevant documents.  I shouldn't duplicate anything already in a conversation, just provide maybe the name of the conversation or maybe the shared link to it.  Claude is for research and brainstorming.  Obsidian is for succinct notes that will inform the actual novel.  Stuff that will be used to construct it.  Nothing extraneous.  I don't need to know where stuff is in the conversations of a project because I should always be able to ask Claude to look for them.
 
 Probably need to stop asking Claude for summaries as I don't think I like them.  Better for me to cut out the pieces I like.
