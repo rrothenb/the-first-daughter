@@ -312,8 +312,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e5559958a0644c0",
+  "active": "a9ca564c06716d50",
   "lastOpenFiles": [
+    "Seasons",
+    "Places",
+    "Events",
+    "Conversations",
     "Characters/Adam.md",
     "Characters/Awan.md",
     "Characters/Cain.md",
@@ -339,7 +343,6 @@
     "Key Themes and Connections.md",
     "Description.md",
     "Building Morality from First Principles - Beyond Natural Assumptions.md",
-    "The Original Good - Reframing the Fall.md",
     "Themes",
     "Characters",
     "Sefaria",
@@ -347,9 +350,6 @@
     "Untitled.base",
     "Notes/Untitled",
     "Untitled 1.base",
-    "Untitled.canvas",
-    "Notes",
-    "Sefaria/Book of Jubilees/1",
-    "Sefaria/Book of Jubilees"
+    "Untitled.canvas"
   ]
 }

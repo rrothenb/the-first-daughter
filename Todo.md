@@ -1,3 +1,5 @@
+Think about devices as a top level directory.  voice and tense.  Flora and fauna.  Weather.  Maybe seasons isn't a good category.
+
 Start identifying Claude conversations that haven't been captured in Obsidian.  Come up with a scheme for recognizing which conversations have been done and for being able to go back to a conversation to discuss a note in obsidian.  Maybe need a note for each conversation with the last thing captured in a directory called Claude Conversations
 
 Add the instructions I had Claude come up with for the timeline and for avoiding traditional morality assumptions
