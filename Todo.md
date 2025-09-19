@@ -15,7 +15,7 @@ Because [[samyaza]] possibly met [[Awan]] after her childbearing years, she may 
 The only thing [[god]] valued was loyalty to him.
 - Maybe there's a better word than loyalty
 
-Think about devices as a top level directory.  voice and tense.  Flora and fauna.  Weather.  Maybe seasons isn't a good category.
+Think about devices as a top level directory.  voice and tense.  Flora and fauna.  Weather.  Maybe seasons isn't a good category.  What about Things, Activities, Times?  Foods?  Weather?
 
 Start identifying Claude conversations that haven't been captured in Obsidian.  Come up with a scheme for recognizing which conversations have been done and for being able to go back to a conversation to discuss a note in obsidian.  Maybe need a note for each conversation with the last thing captured in a directory called Claude Conversations
 
