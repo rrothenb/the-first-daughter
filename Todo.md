@@ -1,4 +1,11 @@
-I need to decide how I feel about the meanings of the various characters' names.  It seems like I should understand that.  I think I still want to avoid modern interpretations but the literal meanings of their names seems pretty relevant.  Or not.  I don't want to view them as symbols.  I want to take them literally.  Maybe I should just be aware of the meanings of their names without actively trying to leverage them 
+Create an official timeline 
+
+Check how much time elapsed between eating from tree and exile
+
+Should look into the first example of lying in the bible to see if it's plausible that Cain had no concept of it when he said am i my brother's keeper?
+
+I need to decide how I feel about the meanings of the various characters' names.  It seems like I should understand that.  I think I still want to avoid modern interpretations but the literal meanings of their names seems pretty relevant.  Or not.  I don't want to view them as symbols.  I want to take them literally.  Maybe I should just be aware of the meanings of their names without actively trying to leverage them
+- Then again, it's pretty postmodern to be aware of the text.  Maybe I should lean into that
 
 Look into timeline question from Claude
 - The research uncovered a **chronological tension** between your specified timeline (Awan living Years 8-83) and traditional Jewish chronologies from Jubilees, which place Awan's birth around Years 78-84. Similarly, while you specify Watchers arriving in Year 38, traditional sources place their descent during Jared's time (around Year 622).
@@ -14,6 +21,7 @@ Because [[samyaza]] possibly met [[Awan]] after her childbearing years, she may 
 
 The only thing [[god]] valued was loyalty to him.
 - Maybe there's a better word than loyalty
+- Then again, maybe lean into the Trumpesque qualities
 
 Think about devices as a top level directory.  voice and tense.  Flora and fauna.  Weather.  Maybe seasons isn't a good category.  What about Things, Activities, Times?  Foods?  Weather?
 
