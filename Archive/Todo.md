@@ -15,11 +15,11 @@ Remember to remove stuff from this list that's already been done or is no longer
 
 Figure out how to show, not tell
 - focus on things that happened because of the things I want to explore
-- focus on the ramifications of [[god]]'s actions, not on the actions themselves
+- focus on the ramifications of [[God]]'s actions, not on the actions themselves
 
-Because [[samyaza]] possibly met [[Awan]] after her childbearing years, she may have been bored and lonely for the first time.  Her husband was busy building a city - a massive undertaking.
+Because [[Samyaza]] possibly met [[Awan]] after her childbearing years, she may have been bored and lonely for the first time.  Her husband was busy building a city - a massive undertaking.
 
-The only thing [[god]] valued was loyalty to him.
+The only thing [[God]] valued was loyalty to him.
 - Maybe there's a better word than loyalty
 - Then again, maybe lean into the Trumpesque qualities
 
@@ -28,7 +28,7 @@ Think about devices as a top level directory.  voice and tense.  Flora and fauna
 Start identifying Claude conversations that haven't been captured in Obsidian.  Come up with a scheme for recognizing which conversations have been done and for being able to go back to a conversation to discuss a note in obsidian.  Maybe need a note for each conversation with the last thing captured in a directory called Claude Conversations
 
 Key themes that I've definitely decided on that violate conventional wisdom may need to go in the instructions.  I've had to repeat myself multiple times about [[Abel]]'s death.  Here's an example that I can mine for instructions:
-- One thing that occurs to me about "Love Without Models" is that I'm not convinced that she'd have any problem with it. I'm not sure if what [[Cain]] did was intentional. How would he even have known that he could kill [[Abel]]? They'd never even seen anybody die, let alone seen that it was possible to kill. They kind of had to take [[god]]'s word for it that it was bad. "Am i my brother's keeper" could have been meant unironically, which is probably the more likely case than him having the sophistication to lie or misrepresent.
+- One thing that occurs to me about "Love Without Models" is that I'm not convinced that she'd have any problem with it. I'm not sure if what [[Cain]] did was intentional. How would he even have known that he could kill [[Abel]]? They'd never even seen anybody die, let alone seen that it was possible to kill. They kind of had to take [[God]]'s word for it that it was bad. "Am i my brother's keeper" could have been meant unironically, which is probably the more likely case than him having the sophistication to lie or misrepresent.
 
 I need to figure out when to use the folder view and when to use the graph view and how to organize both for maximum pleasure.
 
