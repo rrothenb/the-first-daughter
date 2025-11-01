@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consider/Nutshell.md",
+                "file": "Consider/Aclima.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nutshell"
+              "title": "Aclima"
             }
           },
           {
@@ -283,17 +283,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consider/Notes.md",
+                "file": "Consider/Aclima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for Aclima"
             }
           },
           {
@@ -302,12 +302,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Consider/Aclima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Aclima"
             }
           },
           {
@@ -370,24 +370,27 @@
   },
   "active": "b512cccc544705a5",
   "lastOpenFiles": [
-    "Consider/Environment_DailyLife.md",
-    "Consider/Watchers_Nephilim.md",
-    "Consider/Core_Decisions.md",
-    "Consider/Abel.md",
+    "Consider/Extract_Biblical_Rules.md",
+    "Consider/Extract_Cain_Abel_Mystery.md",
+    "Consider/Extract_Theological_Perspectives.md",
+    "Consider/Aclima.md",
     "Consider/Awan.md",
+    "Consider/Seth.md",
+    "Consider/Samyaza.md",
+    "Consider/God.md",
+    "Consider/Enosh.md",
+    "Consider/Eve.md",
+    "Consider/Watchers_Nephilim.md",
+    "Consider/Environment_DailyLife.md",
+    "Consider/Core_Decisions.md",
+    "Consider/Nutshell.md",
+    "Consider/Abel.md",
     "Consider/Notes.md",
     "Consider/The Marriage Switch.md",
     "Consider/The Broken Promise.md",
     "Consider/Abel's Murder.md",
-    "Consider/God.md",
-    "Consider/Samyaza.md",
-    "Consider/Enosh.md",
-    "Consider/Seth.md",
-    "Consider/Aclima.md",
-    "Consider/Eve.md",
     "Consider/Adam.md",
     "Consider/Cain.md",
-    "Consider/Nutshell.md",
     "Archive/Sources/Bereshit Rabbah 19.md",
     "Archive",
     "Consider",
@@ -397,9 +400,6 @@
     "Archive/Sources",
     "Archive/Characters/Abel.md",
     "Archive/Characters/Cain.md",
-    "Archive/Todo.md",
-    "Archive/Places/Enoch.md",
-    "Archive/Events/Exile from Eden.md",
     "Archive/Searches",
     "Archive/Seasons",
     "Archive/Places",
