@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consider/Aclima.md",
+                "file": "Consider/Core_Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aclima"
+              "title": "Core_Decisions"
             }
           },
           {
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consider/Aclima.md",
+                "file": "Consider/Core_Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aclima"
+              "title": "Backlinks for Core_Decisions"
             }
           },
           {
@@ -302,12 +302,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consider/Aclima.md",
+                "file": "Consider/Core_Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aclima"
+              "title": "Outgoing links from Core_Decisions"
             }
           },
           {
@@ -349,8 +349,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -370,17 +369,18 @@
   },
   "active": "b512cccc544705a5",
   "lastOpenFiles": [
-    "Core/dramatica_character_system.md",
-    "Core/compass_artifact_wf-83d7c0b7-42f3-4acb-b981-fb94e48d0ce9_text_markdown.md",
-    "Core/watchers_compendium.md",
+    "Core/project_status_report.md",
+    "Consider/Samyaza.md",
+    "Consider/Awan.md",
+    "Consider/Seth.md",
     "Core/biblical_personality_system.md",
+    "Core/compass_artifact_wf-83d7c0b7-42f3-4acb-b981-fb94e48d0ce9_text_markdown.md",
+    "Core/dramatica_character_system.md",
+    "Core/watchers_compendium.md",
+    "Consider/Aclima.md",
     "Consider/Extract_Biblical_Rules.md",
     "Consider/Extract_Cain_Abel_Mystery.md",
     "Consider/Extract_Theological_Perspectives.md",
-    "Consider/Aclima.md",
-    "Consider/Awan.md",
-    "Consider/Seth.md",
-    "Consider/Samyaza.md",
     "Consider/God.md",
     "Consider/Enosh.md",
     "Consider/Eve.md",
@@ -395,7 +395,6 @@
     "Consider/Abel's Murder.md",
     "Consider/Adam.md",
     "Consider/Cain.md",
-    "Archive/Sources/Bereshit Rabbah 19.md",
     "Archive",
     "Consider",
     "Core",
