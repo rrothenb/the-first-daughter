@@ -2,6 +2,6 @@ Even though this story isn't about him and he's not the viewpoint character, I t
 
 How did he feel about killing [[Consider/Abel]]?
 
-How did he feel about [[Consider/Awan]]?
+How did he feel about [[Core/Awan]]?
 
 #character
