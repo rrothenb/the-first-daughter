@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consider/Abel.md",
+                "file": "Consider/Nutshell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abel"
+              "title": "Nutshell"
             }
           },
           {
@@ -368,8 +368,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9ca564c06716d50",
+  "active": "b512cccc544705a5",
   "lastOpenFiles": [
+    "Consider/Environment_DailyLife.md",
+    "Consider/Watchers_Nephilim.md",
+    "Consider/Core_Decisions.md",
+    "Consider/Abel.md",
     "Consider/Awan.md",
     "Consider/Notes.md",
     "Consider/The Marriage Switch.md",
@@ -382,7 +386,6 @@
     "Consider/Aclima.md",
     "Consider/Eve.md",
     "Consider/Adam.md",
-    "Consider/Abel.md",
     "Consider/Cain.md",
     "Consider/Nutshell.md",
     "Archive/Sources/Bereshit Rabbah 19.md",
@@ -397,10 +400,7 @@
     "Archive/Todo.md",
     "Archive/Places/Enoch.md",
     "Archive/Events/Exile from Eden.md",
-    "conflict-files-obsidian-git.md",
-    "Archive/Characters/Azura.md",
     "Archive/Searches",
-    "Archive/Conversations/Characters in early biblical genealogy.md",
     "Archive/Seasons",
     "Archive/Places",
     "Archive/Events",
