@@ -1,5 +1,3 @@
-# Complete Character Trait System Based on Dramatica Theory
-
 ## The Four Character Dimensions
 
 Dramatica identifies **64 Character Elements** organized into **4 Dimensions** of 16 elements each. Each dimension represents a different aspect of how a character operates:

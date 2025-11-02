@@ -1,4 +1,3 @@
-# Systematic Personality Framework: Biblical Character Traits
 
 ## Organization Principle
 

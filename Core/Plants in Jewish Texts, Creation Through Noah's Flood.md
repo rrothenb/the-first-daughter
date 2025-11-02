@@ -1,4 +1,3 @@
-# Plants in Jewish Texts: Creation Through Noah's Flood
 
 **The biblical and rabbinic sources name surprisingly few specific plant species for the antediluvian period.** Genesis 1-11 explicitly mentions only three common plants by name: fig trees, olive trees (during the flood), and thorns/thistles (as curse vegetation). Rabbinic literature adds significant detail, identifying flaxseed as Cain's offering and proposing wheat, grapes, figs, or etrog as candidates for the Tree of Knowledge. However, the texts consistently use generic categories—"herbs," "fruit trees," "seed-bearing plants"—rather than cataloging specific crops. This creates a stark contrast between what the texts actually state versus what scholars often assume about ancient Near Eastern agriculture.
 

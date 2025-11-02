@@ -1,5 +1,3 @@
-# Extract: Cain and Abel's First Murder Mystery
-
 *Source: Conversation dated 2025-09-08*
 
 This document contains insights about the first murder, understanding of death, moral knowledge, and timeline questions not covered in other project documentation.

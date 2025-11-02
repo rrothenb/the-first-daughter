@@ -1,5 +1,3 @@
-# Environment and Daily Life - Awan Novel Project
-
 This document consolidates everything about the physical environment, ecology, climate, technologies, and day-to-day activities in Awan's world. The goal is to create sensory, grounded worldbuilding - smells, textures, sights, tastes, sounds that make the ancient world come alive.
 
 ---

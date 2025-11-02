@@ -1,5 +1,3 @@
-# Extract: Theological Perspectives on Divine Judgment
-
 *Source: Conversation dated 2025-09-08*
 
 This document contains insights and analysis from a specific conversation that haven't been captured in other project documentation.

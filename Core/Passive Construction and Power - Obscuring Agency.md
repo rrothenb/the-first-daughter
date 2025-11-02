@@ -1,5 +1,3 @@
-# Passive Construction and Power - Obscuring Agency
-
 ## Core Insight
 
 Violence and harm don't happen without someone being responsible. But framing mechanisms obscure who has agency:
@@ -186,7 +184,7 @@ The "we're fallen" framing makes it sound like something humanity did to itself.
 
 - [[Core_Decisions]] - God as narcissist framework
 - [[Consider/God]] - God as antagonist analysis  
-- [[Watchers_Nephilim]] - Knowledge-sharing framed as "corruption"
+- [[Watchers and Nephilim]] - Knowledge-sharing framed as "corruption"
 - [[Passive_Voice_in_Biblical_Narratives]] (if that note exists)
 - [[Power_and_Narrative_Control]] (if that note exists)
 

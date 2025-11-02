@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Sources/Bereshit Rabbah 19.md",
+                "file": "Core/Comprehensive Project Status Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bereshit Rabbah 19"
+              "title": "Comprehensive Project Status Report"
             }
           },
           {
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Sources/Bereshit Rabbah 19.md",
+                "file": "Core/Comprehensive Project Status Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bereshit Rabbah 19"
+              "title": "Backlinks for Comprehensive Project Status Report"
             }
           },
           {
@@ -274,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Sources/Bereshit Rabbah 19.md",
+                "file": "Core/Comprehensive Project Status Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bereshit Rabbah 19"
+              "title": "Outgoing links from Comprehensive Project Status Report"
             }
           },
           {
@@ -340,9 +340,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "abcebba6b6a14e01",
+  "active": "a4179b3348b9b947",
   "lastOpenFiles": [
-    "Core/Passive_Construction_and_Power.md",
+    "Core/Watchers and Nephilim.md",
+    "Core/The Watchers.md",
+    "Core/Theological Perspectives on Divine Judgment.md",
+    "Core/Passive Construction and Power - Obscuring Agency.md",
+    "Core/Cain and Abel's First Murder Mystery.md",
+    "Core/Biblical Rules in Early Human History.md",
+    "Core/Environment and Daily Life.md",
+    "Core/Complete Character Trait System Based on Dramatica Theory.md",
+    "Core/Systematic Personality Framework, Biblical Character Traits.md",
+    "Core/Plants in Jewish Texts, Creation Through Noah's Flood.md",
+    "Core/The San Fernando Valley, 2000 BC - 1821.md",
+    "Core/The San Fernando Valley, 1900-1945.md",
+    "Core/The San Fernando Valley, 1821-1900.md",
+    "Core/The San Fernando Valley, 1945-2025.md",
+    "Archive/Sources/Bereshit Rabbah 19.md",
     "Archive/Places/Enoch.md",
     "Archive/Events/The Marriage Switch.md",
     "Archive/Events/Exile from Eden.md",
@@ -351,23 +365,9 @@
     "Archive/Conversations/Biological origins of moral intuition.md",
     "Archive/Conversations/Early Inhabitants of Mesopotamia.md",
     "Core/Awan.md",
-    "Core/Environment_DailyLife.md",
-    "Core/Extract_Cain_Abel_Mystery.md",
     "Core/Samyaza.md",
     "Core/Nutshell.md",
-    "Core/Watchers_Nephilim.md",
-    "Core/project_status_report.md",
-    "Core/watchers_compendium.md",
-    "Core/dramatica_character_system.md",
-    "Core/compass_artifact_wf-83d7c0b7-42f3-4acb-b981-fb94e48d0ce9_text_markdown.md",
-    "Core/biblical_personality_system.md",
-    "Consider/Core_Decisions.md",
-    "Consider/Seth.md",
-    "Consider/Aclima.md",
-    "Core/Extract_Biblical_Rules.md",
-    "Core/Extract_Theological_Perspectives.md",
-    "Consider/God.md",
-    "Consider/Enosh.md",
+    "Core/Comprehensive Project Status Report.md",
     "Archive",
     "Consider",
     "Core",

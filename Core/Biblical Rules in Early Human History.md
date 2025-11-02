@@ -1,5 +1,3 @@
-# Extract: Biblical Rules in Early Human History
-
 *Source: Conversation dated 2025-09-30*
 
 This document examines what rules actually existed during Awan's lifetime, the origins of the 613 mitzvot, and God's pattern of revealing preferences after the fact rather than providing clear guidance.

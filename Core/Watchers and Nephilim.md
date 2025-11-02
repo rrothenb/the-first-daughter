@@ -1,5 +1,3 @@
-# Watchers and Nephilim - Awan Novel Project
-
 This document compiles everything known about the Watchers (Grigori), their leader Samyaza, their teachings, their hybrid offspring the Nephilim, and their ultimate fate, as relevant to the Awan novel project.
 
 ---

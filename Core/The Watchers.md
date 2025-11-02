@@ -1,5 +1,3 @@
-# The Watchers (Grigori): Supplementary Compendium
-
 ## Overview
 
 **The Watchers** (Hebrew: עירין *iyrin*, Aramaic: עִיר *'iyr*, Greek: ἐγρήγοροι *egrḗgoroi* - meaning "wakeful" or "those who are awake") are a group of angels described extensively in 1 Enoch chapters 6-16, also mentioned in Daniel, 2 Enoch, Jubilees, and various rabbinic sources.
