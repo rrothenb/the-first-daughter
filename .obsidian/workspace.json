@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Comprehensive Project Status Report.md",
+                "file": "Searches/Noteworthy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comprehensive Project Status Report"
+              "title": "Noteworthy"
             }
           },
           {
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Comprehensive Project Status Report.md",
+                "file": "Searches/Noteworthy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Comprehensive Project Status Report"
+              "title": "Backlinks for Noteworthy"
             }
           },
           {
@@ -274,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Comprehensive Project Status Report.md",
+                "file": "Searches/Noteworthy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Comprehensive Project Status Report"
+              "title": "Outgoing links from Noteworthy"
             }
           },
           {
@@ -340,8 +340,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4179b3348b9b947",
+  "active": "a9ca564c06716d50",
   "lastOpenFiles": [
+    "Searches",
+    "Archive/Sources/Bereshit Rabbah 19.md",
+    "Searches/Noteworthy.md",
+    "Core/Comprehensive Project Status Report.md",
     "Core/Watchers and Nephilim.md",
     "Core/The Watchers.md",
     "Core/Theological Perspectives on Divine Judgment.md",
@@ -356,7 +360,6 @@
     "Core/The San Fernando Valley, 1900-1945.md",
     "Core/The San Fernando Valley, 1821-1900.md",
     "Core/The San Fernando Valley, 1945-2025.md",
-    "Archive/Sources/Bereshit Rabbah 19.md",
     "Archive/Places/Enoch.md",
     "Archive/Events/The Marriage Switch.md",
     "Archive/Events/Exile from Eden.md",
@@ -365,9 +368,6 @@
     "Archive/Conversations/Biological origins of moral intuition.md",
     "Archive/Conversations/Early Inhabitants of Mesopotamia.md",
     "Core/Awan.md",
-    "Core/Samyaza.md",
-    "Core/Nutshell.md",
-    "Core/Comprehensive Project Status Report.md",
     "Archive",
     "Consider",
     "Core",
