@@ -55,7 +55,7 @@ During Awan's entire lifetime (roughly 75 biblical years / 6-7 actual years), th
 ### When Were They Given?
 
 **The Timeline Gap:**
-- **Awan's era:** Years 0-75 (normalized: 0-6.25 years)
+- **Awan's era:** Years 0-75
 - **Exodus from Egypt:** Approximately 400 years after Abraham
 - **Mount Sinai:** Shortly after the Exodus
 - **Time gap:** Roughly **1,000+ years** after Awan's death

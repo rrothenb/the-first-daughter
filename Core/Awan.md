@@ -1,11 +1,11 @@
-Born as quadruplet with Cain, Abel, and Aclima around Year 8 (biblical chronology) in the normalized timeline.
+Born as quadruplet with Cain, Abel, and Aclima.
 
 **Family Structure:** Originally supposed to marry Cain in the cross-pairing arrangement (though some traditions say Abel). After Abel's murder, married Cain - spending approximately 53 years married to her brother's killer. This makes her both witness to and participant in the first family tragedy.
 
 **People She Encountered:**
 
 - **Throughout her life**: Adam, Eve, Cain, Aclima (her twin sister)
-- **Until his death**: Abel (her other twin brother, murdered when she was ~22 normalized years)
+- **Until his death**: Abel (her other twin brother)
 - **Born during her lifetime**: Seth, Enosh, Kenan
 - **Possibly met**: Mahalalel (if she lived toward longer end of lifespan), Samyaza and other Watchers (if they descended during her later years when she was post-childbearing)
 

@@ -167,7 +167,7 @@ _Witnessing Abel's Murder:_ First experience with death being real and irrevers
 
 _Seth's Birth:_ Genesis 4:25 records Eve saying "God has appointed for me another offspring instead of Abel." Eve's words, not Adam's - even in naming replacement son, Eve takes narrative lead.
 
-_Later Children:_ Genesis 5:4 notes "he had other sons and daughters" but gives no details. Multiple children over his 77.5 normalized years.
+_Later Children:_ Genesis 5:4 notes "he had other sons and daughters" but gives no details.
 
 **Living with Consequences:** 77.5 years of experiencing results of single decision:
 

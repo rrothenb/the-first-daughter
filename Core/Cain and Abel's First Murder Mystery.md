@@ -77,7 +77,7 @@ From a first principles biological perspective, Cain might have thought humans w
 - All of them waiting, watching, hoping
 
 **The Long Mourning:**
-- 28 years (or 2.3 normalized years) suggests gradual understanding
+- 28 years suggests gradual understanding
 - Not immediate comprehension
 - A slow, horrible realization: Abel is never coming back
 - Humanity's first encounter with permanent loss
@@ -343,7 +343,6 @@ Cain operated without:
 ## Connections to Other Project Elements
 
 ### Links to Core_Decisions.md
-- Time normalization: the gaps become psychologically plausible periods
 - First principles: don't assume they understood death, morality, justice
 - Natural morality: rules invented in response to events, not pre-existing
 
@@ -353,7 +352,7 @@ Cain operated without:
 - Divine gaslighting: punishing for violations of unspoken rules
 
 ### Links to Watchers_Nephilim.md
-- When Watchers arrive (Year 38), Awan is 30 (normalized: 3.2 years old)
+- When Watchers arrive (Year 38), Awan is 30
 - She's lived with death-uncertainty for decades
 - Samyaza might finally explain mortality, divine systems
 - His knowledge could be what she's been seeking

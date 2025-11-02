@@ -128,12 +128,7 @@ _With Aclima:_ Aclima provided:
 
 Her Practical + Diplomatic nature helped Enosh think through how to actually gather and lead community.
 
-**Relationship with Awan:** Critical connection: Awan lived approximately years 8-83. Enosh born at year ~235 in biblical chronology. In normalized timeline (dividing by 12):
-
-- Awan: lived approximately 0.67 - 6.9 normalized years
-- Enosh: born at ~19.6 normalized years
-
-Timeline problem: This means Awan died before Enosh was born in normalized timeline. BUT if we adjust or if she lived longer, or if there's flexibility in the conversion:
+**Relationship with Awan:** Critical connection: Awan lived approximately years 8-83. Enosh born at year ~235 in biblical chronology.
 
 If they overlapped, Awan would have witnessed:
 

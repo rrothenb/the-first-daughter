@@ -2,7 +2,7 @@
 
 **Basic Information:** Second son of Adam and Eve, born as quadruplet with Cain, Awan, and Aclima. Occupation: "keeper of sheep" - shepherd tending small livestock (tzon: sheep and goats).
 
-**Brief Life:** Died young, likely in teens or early adulthood (normalized time), making him the first human to experience death.
+**Brief Life:** Died young, likely in teens or early adulthood, making him the first human to experience death.
 
 **Occupation:**
 

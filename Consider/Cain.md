@@ -118,8 +118,7 @@ These emerge during or shortly after Cain/Awan's lifetime, suggesting rapid cult
 - **Settlement**: Building city of Enoch
 - **Later life**: Establishing urban civilization with wife Awan
 
-**Death:** Biblical text doesn't record when or how Cain died. Some traditions suggest he lived many centuries (following antediluvian longevity pattern), others that he died relatively younger. Your normalized timeline would place him living perhaps 70-80 years if following Adam's ~77.5-year normalized lifespan pattern.
-
+**Death:** Biblical text doesn't record when or how Cain died. Some traditions suggest he lived many centuries (following antediluvian longevity pattern), others that he died relatively younger.
 **Thematic Significance:**
 
 _For "How Did We Get Here?":_

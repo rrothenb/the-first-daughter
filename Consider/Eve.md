@@ -1,6 +1,6 @@
 # Eve
 
-**Basic Information:** First woman, created from Adam's rib/side as fully-formed adult. Lived approximately 940 biblical years per some traditions (78.3 normalized years using 12:1 ratio). Mother to all humanity.
+**Basic Information:** First woman, created from Adam's rib/side as fully-formed adult. Lived approximately 940 biblical years per some traditions.  Mother to all humanity.
 
 **Creation & Eden:**
 

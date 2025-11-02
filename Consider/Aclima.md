@@ -1,7 +1,6 @@
 # Aclima
 
-**Basic Information:** The fourth quadruplet, born with Cain (while Abel was born with Awan). Lifespan unknown but likely similar to her siblings - approximately 75-80 normalized years following the antediluvian pattern.
-
+**Basic Information:** The fourth quadruplet, born with Cain (while Abel was born with Awan). Lifespan unknown but likely similar to her siblings.
 **Marriage Arrangement & Disruption:** Originally intended to marry Cain in the cross-pairing system:
 
 - Cain (born with Aclima) → supposed to marry Awan
@@ -96,7 +95,7 @@ Good practical match - Abel's spiritual depth balanced by Aclima's worldly compe
 
 His death before they could marry left her alone for years.
 
-**Marriage to Seth:** When Seth was born years later (Adam was 130 biblical years old, ~10.8 normalized), Aclima was probably in her 30s in normalized time. Significant age gap but necessary given circumstances.
+**Marriage to Seth:** Significant age gap but necessary given circumstances.
 
 Seth as Abel's "replacement" (Genesis 4:25) made this marriage symbolically significant:
 
