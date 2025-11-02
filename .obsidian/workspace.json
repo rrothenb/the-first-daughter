@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consider/Core Decisions.md",
+                "file": "Core/Core Novel Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Decisions"
+              "title": "Core Novel Decisions"
             }
           },
           {
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consider/Core Decisions.md",
+                "file": "Core/Core Novel Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Core Decisions"
+              "title": "Backlinks for Core Novel Decisions"
             }
           },
           {
@@ -274,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consider/Core Decisions.md",
+                "file": "Core/Core Novel Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Core Decisions"
+              "title": "Outgoing links from Core Novel Decisions"
             }
           },
           {
@@ -340,8 +340,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "abcebba6b6a14e01",
+  "active": "a4179b3348b9b947",
   "lastOpenFiles": [
+    "Consider/Core Decisions.md",
+    "Core/Core Novel Decisions.md",
     "Core/The Watchers.md",
     "Archive/Sources/Bereshit Rabbah 19.md",
     "Searches/Noteworthy.md",
@@ -367,7 +369,6 @@
     "Archive/Conversations/Biblical family dynamics and divine favoritism.md",
     "Archive/Conversations/Biological origins of moral intuition.md",
     "Archive/Conversations/Early Inhabitants of Mesopotamia.md",
-    "Core/Awan.md",
     "Archive",
     "Consider",
     "Core",
