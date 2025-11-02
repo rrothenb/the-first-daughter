@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Searches/Noteworthy.md",
+                "file": "Consider/Core Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noteworthy"
+              "title": "Core Decisions"
             }
           },
           {
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Searches/Noteworthy.md",
+                "file": "Consider/Core Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Noteworthy"
+              "title": "Backlinks for Core Decisions"
             }
           },
           {
@@ -274,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Searches/Noteworthy.md",
+                "file": "Consider/Core Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Noteworthy"
+              "title": "Outgoing links from Core Decisions"
             }
           },
           {
@@ -340,14 +340,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9ca564c06716d50",
+  "active": "abcebba6b6a14e01",
   "lastOpenFiles": [
-    "Searches",
+    "Core/The Watchers.md",
     "Archive/Sources/Bereshit Rabbah 19.md",
     "Searches/Noteworthy.md",
+    "Searches",
     "Core/Comprehensive Project Status Report.md",
     "Core/Watchers and Nephilim.md",
-    "Core/The Watchers.md",
     "Core/Theological Perspectives on Divine Judgment.md",
     "Core/Passive Construction and Power - Obscuring Agency.md",
     "Core/Cain and Abel's First Murder Mystery.md",
@@ -377,7 +377,6 @@
     "Archive/Places",
     "Archive/Events",
     "Archive/Conversations",
-    "Archive/Themes",
     "Untitled.canvas"
   ]
 }

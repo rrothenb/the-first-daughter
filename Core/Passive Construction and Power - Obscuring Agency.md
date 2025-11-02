@@ -182,7 +182,7 @@ The "we're fallen" framing makes it sound like something humanity did to itself.
 
 ## Related Concepts
 
-- [[Core_Decisions]] - God as narcissist framework
+- [[Core Decisions]] - God as narcissist framework
 - [[Consider/God]] - God as antagonist analysis  
 - [[Watchers and Nephilim]] - Knowledge-sharing framed as "corruption"
 - [[Passive_Voice_in_Biblical_Narratives]] (if that note exists)
