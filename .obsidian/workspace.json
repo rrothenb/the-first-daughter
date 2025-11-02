@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Core Novel Decisions.md",
+                "file": "Consider/Core Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Novel Decisions"
+              "title": "Core Decisions"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character",
+                "query": "12",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,7 +235,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Core Novel Decisions.md",
+                "file": "Consider/Core Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Core Novel Decisions"
+              "title": "Backlinks for Core Decisions"
             }
           },
           {
@@ -274,12 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Core Novel Decisions.md",
+                "file": "Consider/Core Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Core Novel Decisions"
+              "title": "Outgoing links from Core Decisions"
             }
           },
           {
@@ -342,8 +343,14 @@
   },
   "active": "a4179b3348b9b947",
   "lastOpenFiles": [
-    "Consider/Core Decisions.md",
+    "Core/Cain and Abel's First Murder Mystery.md",
+    "Core/Awan.md",
+    "Consider/Adam.md",
+    "Consider/Abel.md",
+    "Core/Todo.md",
+    "Core/Nutshell.md",
     "Core/Core Novel Decisions.md",
+    "Consider/Core Decisions.md",
     "Core/The Watchers.md",
     "Archive/Sources/Bereshit Rabbah 19.md",
     "Searches/Noteworthy.md",
@@ -352,7 +359,6 @@
     "Core/Watchers and Nephilim.md",
     "Core/Theological Perspectives on Divine Judgment.md",
     "Core/Passive Construction and Power - Obscuring Agency.md",
-    "Core/Cain and Abel's First Murder Mystery.md",
     "Core/Biblical Rules in Early Human History.md",
     "Core/Environment and Daily Life.md",
     "Core/Complete Character Trait System Based on Dramatica Theory.md",
@@ -364,11 +370,6 @@
     "Core/The San Fernando Valley, 1945-2025.md",
     "Archive/Places/Enoch.md",
     "Archive/Events/The Marriage Switch.md",
-    "Archive/Events/Exile from Eden.md",
-    "Archive/Conversations/Ancient Mesopotamian Landscape Geography.md",
-    "Archive/Conversations/Biblical family dynamics and divine favoritism.md",
-    "Archive/Conversations/Biological origins of moral intuition.md",
-    "Archive/Conversations/Early Inhabitants of Mesopotamia.md",
     "Archive",
     "Consider",
     "Core",

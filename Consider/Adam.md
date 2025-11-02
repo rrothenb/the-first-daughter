@@ -1,6 +1,6 @@
 # Adam
 
-**Basic Information:** First human, created (not born) directly by God as fully-formed adult. Lived 930 biblical years (77.5 normalized years using 12:1 ratio).
+**Basic Information:** First human, created (not born) directly by God as fully-formed adult. Lived 930 biblical years.
 
 **Creation & Eden:**
 

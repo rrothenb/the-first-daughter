@@ -2,8 +2,6 @@ Born as quadruplet with Cain, Abel, and Aclima around Year 8 (biblical chronolog
 
 **Family Structure:** Originally supposed to marry Cain in the cross-pairing arrangement (though some traditions say Abel). After Abel's murder, married Cain - spending approximately 53 years married to her brother's killer. This makes her both witness to and participant in the first family tragedy.
 
-**Lifespan & Timeline:** Lived approximately Year 8-83 in normalized timeline (though Jubilees places her birth around Year 78-84, creating chronological tension). Using 12:1 conversion ratio: biblical years ÷ 12 = normalized years, making her about 75 years old at death.
-
 **People She Encountered:**
 
 - **Throughout her life**: Adam, Eve, Cain, Aclima (her twin sister)

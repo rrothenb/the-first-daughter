@@ -25,59 +25,6 @@ The question works on multiple levels:
 
 ---
 
-## Time Normalization Rules
-
-**Critical Framework:** Biblical ages in the antediluvian period are unrealistic. We use a conversion system to create psychologically plausible human timescales.
-
-### Three-Period Approach
-
-**Period 1: Antediluvian (Creation to Flood - 1656 biblical years)**
-- **Apply 12:1 conversion** (1 biblical year = 1 month actual time)
-- Justification: Lifespans of 365-969 years are biologically unrealistic
-- Result: Adam lives 77.5 years, Methuselah 80.75 years, Noah 79.2 years
-- All ages and timeframes divided by 12 to get "real" ages
-
-**Period 2: Post-Flood Transitional (Flood to Joseph - ~650 biblical years)**
-- **Gradual natural normalization - NO conversion needed**
-- Lifespans decline organically: Shem 600 → Peleg 239 → Joseph 110
-- Tower of Babel (around Peleg) marks acceleration point
-- This reflects actual environmental/genetic changes in the narrative
-
-**Period 3: Normalized Era (Joseph onward)**
-- **NO conversion needed**
-- Psalm 90:10 establishes 70-80 years as normal ("The days of our lives in it are seventy years")
-- Moses lives 120 years (exceptional but realistic)
-- Lifespans match historical reality
-
-### Key Timeline Anchors (Normalized)
-
-- **Year 0:** Creation/Eden established
-- **Year 8:** Awan born in Eden (with Cain, Abel, Aclima as quadruplets)
-- **Year 10:** The transgression (eating from the tree)
-- **Year 12:** Expulsion from Eden (Awan age 4, has Eden memories)
-- **Year 16:** Abel's murder (Awan age 8)
-- **Year 20:** Cain's exile begins (4-year gap after murder allows psychological processing)
-- **Year 21:** Enoch born, first city (Eridu) founded
-- **Year 38:** Samyaza and the Watchers arrive (Awan age 30)
-- **Year 75:** Awan dies (900 biblical years ÷ 12)
-- **Year 138:** The Flood (1656 biblical years ÷ 12)
-
-### Important Gaps
-
-- **2-year gap** between eating the fruit and expulsion (years 10-12)
-- **4-year gap** between Abel's murder and Cain's exile (years 16-20)
-- These gaps allow for psychological processing, family dynamics, and complex decision-making rather than immediate divine punishment
-
-### Special Cases
-
-**Sanhedrin "Hours":** These are LITERAL hours, not years. Sanhedrin 38b describes Adam's creation day hour-by-hour during a single 12-hour day. Do NOT convert to years.
-
-**"Generation":** Already a normalized concept representing parent-to-child intervals (variable duration, roughly 20-40 years depending on individual). No conversion needed.
-
-**Flood Dating:** Precisely 1656 years after creation according to Genesis chronology (Seder Olam Rabbah). With 12:1 conversion = 138 actual years from creation to flood.
-
----
-
 ## Natural Morality Framework
 
 **Core Premise:** God in this story is understood as a narcissistic, controlling entity whose "morality" is actually abuse. Traditional biblical judgments of right/wrong are products of this corrupted divine influence.

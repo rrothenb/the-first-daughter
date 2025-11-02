@@ -55,11 +55,6 @@ From a first principles biological perspective, Cain might have thought humans w
 > "Adam and his wife mourned for Abel four weeks of years"
 
 **Four weeks of years = 28 years** in Jubilees' chronology
-
-With the 12:1 time normalization (1 biblical year = 1 month actual time):
-- 28 biblical years = ~2.3 actual years
-- Still a significant gap between murder and consequences
-
 ### What Might Have Happened During This Time
 
 **Immediate Aftermath:**
