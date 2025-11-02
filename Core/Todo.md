@@ -17,7 +17,7 @@ Figure out how to show, not tell
 - focus on things that happened because of the things I want to explore
 - focus on the ramifications of [[Consider/God]]'s actions, not on the actions themselves
 
-Because [[Core/Samyaza]] possibly met [[Core/Awan]] after her childbearing years, she may have been bored and lonely for the first time.  Her husband was busy building a city - a massive undertaking.
+Because [[Core/Samyaza]] possibly met [[Awan]] after her childbearing years, she may have been bored and lonely for the first time.  Her husband was busy building a city - a massive undertaking.
 
 The only thing [[Consider/God]] valued was loyalty to him.
 - Maybe there's a better word than loyalty

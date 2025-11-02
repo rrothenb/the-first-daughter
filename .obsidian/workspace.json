@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Cain and Abel's First Murder Mystery.md",
+                "file": "Core/Watchers and Nephilim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cain and Abel's First Murder Mystery"
+              "title": "Watchers and Nephilim"
             }
           },
           {
@@ -235,8 +235,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Cain and Abel's First Murder Mystery.md",
+                "file": "Core/Watchers and Nephilim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cain and Abel's First Murder Mystery"
+              "title": "Backlinks for Watchers and Nephilim"
             }
           },
           {
@@ -275,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Cain and Abel's First Murder Mystery.md",
+                "file": "Core/Watchers and Nephilim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cain and Abel's First Murder Mystery"
+              "title": "Outgoing links from Watchers and Nephilim"
             }
           },
           {
@@ -343,9 +342,22 @@
   },
   "active": "a4179b3348b9b947",
   "lastOpenFiles": [
+    "Core/Todo.md",
+    "Core/Theological Perspectives on Divine Judgment.md",
+    "Core/The Watchers.md",
+    "Core/Systematic Personality Framework, Biblical Character Traits.md",
+    "Core/Samyaza.md",
+    "Core/Plants in Jewish Texts, Creation Through Noah's Flood.md",
+    "Core/Passive Construction and Power - Obscuring Agency.md",
+    "Core/Nutshell.md",
+    "Core/Environment and Daily Life.md",
+    "Core/Core Novel Decisions.md",
+    "Core/Comprehensive Project Status Report.md",
+    "Core/Complete Character Trait System Based on Dramatica Theory.md",
+    "Consider/Cain and Abel's First Murder Mystery.md",
+    "Consider/Biblical Rules in Early Human History.md",
+    "Consider/Awan.md",
     "Consider/Cain.md",
-    "Core/Biblical Rules in Early Human History.md",
-    "Core/Awan.md",
     "Consider/Adam.md",
     "Consider/Aclima.md",
     "Consider/Abel's Murder.md",
@@ -353,23 +365,10 @@
     "Consider/Eve.md",
     "Consider/Enosh.md",
     "Consider/Core Decisions.md",
-    "Core/Cain and Abel's First Murder Mystery.md",
-    "Core/Todo.md",
-    "Core/Nutshell.md",
-    "Core/Core Novel Decisions.md",
-    "Core/The Watchers.md",
     "Archive/Sources/Bereshit Rabbah 19.md",
     "Searches/Noteworthy.md",
     "Searches",
-    "Core/Comprehensive Project Status Report.md",
     "Core/Watchers and Nephilim.md",
-    "Core/Theological Perspectives on Divine Judgment.md",
-    "Core/Passive Construction and Power - Obscuring Agency.md",
-    "Core/Environment and Daily Life.md",
-    "Core/Complete Character Trait System Based on Dramatica Theory.md",
-    "Core/Systematic Personality Framework, Biblical Character Traits.md",
-    "Core/Plants in Jewish Texts, Creation Through Noah's Flood.md",
-    "Core/The San Fernando Valley, 2000 BC - 1821.md",
     "Archive",
     "Consider",
     "Core",
