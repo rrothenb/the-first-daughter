@@ -1,7 +1,3 @@
-# "The Book of Awan" - Current State Summary
-**Date:** November 11, 2025  
-**Status:** Transitioning from planning to prose writing  
-**Updated:** With key clarifications on structure, textual interpretation, character decisions, neurobiology of attraction (Westermarck effect), and the "out-literaling the literalists" strategic framework
 
 ---
 
@@ -59,9 +55,6 @@ Use fundamentalists' own literal-reading methodology against the traditional int
 - Either reject literalism (admit you're interpreting)
 - Or accept the scientific implications (which undermine authoritarian theology)
 - You can't have it both ways
-
-**Samyaza's Realization:**
-As he learns modern science (especially neurobiology, psychology, evolutionary biology), he recognizes: "If you actually take Genesis literally and combine it with what we now know about human nature, the traditional interpretation collapses. They claim to read it literally but they're actually reading centuries of interpretation layered on top."
 
 **Practical Examples in the Novel:**
 
@@ -186,11 +179,29 @@ NOT non-linear. Both timelines proceed chronologically:
 - Year 905-1656 AM: Samyaza imprisoned (sometime after Awan's death)
 - Year 1656 AM: The Flood (~2348 BCE) - destroys everything
 
-**The Long Silence (~2348 BCE - 1797 CE):**
-- Samyaza bound in San Fernando Valley for "70 generations"
-- ~4,145 years of imprisonment
-- Cannot interact with humans during this period
-- Pre-1797 CE: Can observe Tongva and Tataviam peoples but may be partially bound
+**Byzantine chronology:**
+- Creation: 5509 BCE
+- Flood (year 1656): 3853 BCE
+- Samyaza imprisoned ~3853 BCE
+
+**Jewish calendar:**
+- Creation: 3760 BCE
+- Flood (year 1656): 2104 BCE
+- Samyaza imprisoned ~2104 BCE
+
+**Tongva arrival in San Fernando Valley: ~3,500 years ago = ~1500 BCE**
+
+So:
+- **Byzantine dates (earlier)**: Samyaza imprisoned 3853 BCE → Valley is **uninhabited for another ~2,300 years** until Tongva arrive around 1500 BCE
+- **Jewish dates (later)**: Samyaza imprisoned 2104 BCE → Valley is **uninhabited for another ~600 years** until Tongva arrive around 1500 BCE
+
+Samyaza bound in San Fernando Valley for "70 generations", which can arguably be calculated as between 1000 to 3000 CE
+
+**The Long Silence (imprisonment in San Fernando Valley to arrival of first inhabitants):**
+- No one around to talk to
+- Might assume he will be stuck that way forever
+- Can safely assume that's what god intended - for him to be stuck forever alone
+- God didn't anticipate people eventually showing up in the valley
 
 **Valley Period (CE dates):**
 **1797 CE:** Mission San Fernando founded - first exposure to written Genesis  
