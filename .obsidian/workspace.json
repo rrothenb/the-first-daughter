@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Watchers and Nephilim.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watchers and Nephilim"
+              "title": "Summary"
             }
           },
           {
@@ -342,6 +342,7 @@
   },
   "active": "a4179b3348b9b947",
   "lastOpenFiles": [
+    "Core/Watchers and Nephilim.md",
     "Core/Todo.md",
     "Core/Theological Perspectives on Divine Judgment.md",
     "Core/The Watchers.md",
@@ -368,7 +369,6 @@
     "Archive/Sources/Bereshit Rabbah 19.md",
     "Searches/Noteworthy.md",
     "Searches",
-    "Core/Watchers and Nephilim.md",
     "Archive",
     "Consider",
     "Core",
