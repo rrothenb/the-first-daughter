@@ -1,3 +1,4 @@
+Note: this sucks.  I hate the organization and the repetition and I don't fully agree with everything here and I really should rewrite this in my own words and should outline my own stuff and this process isn't working for me and I've wasted a lot of time on this and does it really matter if what I'm going to do next is start writing?  This should be broken up into separate notes for separate ideas
 
 ---
 
@@ -774,6 +775,8 @@ This linguistic trick obscures agency and makes victims complicit while protecti
 Jesus saw the problem too. Got closer than most. But couldn't escape all his inherited frameworks (still working within Judaism). And the moment he died, his followers started rebuilding the exact authoritarian structures he'd challenged. The same weaponization pattern, playing out again.
 
 ### The Economic Dimension: Evolutionary Economics & Narrative Selection
+
+In Genesis before the flood, there is no concept of property.  Everyone in the world is someone you know who is a relative. Communism is the natural order.
 
 **Why Samyaza Fails - The Structural Analysis:**
 Not because his arguments are wrong or his writing is bad, but because of structural incompatibility between natural morality and capitalism. This is an **evolutionary economics** problem:
