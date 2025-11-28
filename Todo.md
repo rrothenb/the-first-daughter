@@ -1,8 +1,23 @@
-Create an official timeline 
+The first thing I need to do is review this old todo list
 
-Check how much time elapsed between eating from tree and exile
+I think my next step is primarily just reading stuff and making notes on the stuff that excites or interests or puzzles me.  In order to write an engaging novel I need engaging material
 
-Should look into the first example of lying in the bible to see if it's plausible that [[Consider/Cain]] had no concept of it when he said am i my brother's keeper?
+Try to show more than tell.  I’m tempted to explain literary theories rather than show them, although I don’t know if that’s even possible 
+
+Stuff I need
+- I need one file that contains everything I currently intend to cover at a high level.  Currently, that's the top level Summary note
+- I need a directory for archived stuff that I'm not yet ready to delete, but it shouldn't really have all that much in it
+- I need a directory for collateral (?) that's probably going to be used and is almost certainly true.  Maybe reference would be a better name.  It is not specific to the novel.  It shouldn't be a simple cut and paste from some site that I can simply reference with a URL, like sefaria.org.  This is a good place for reports I generated using Claude
+- I need a directory for things that I think are true for the novel
+- I shouldn't have anything at the top level that I want Claude to search.  Maybe the only thing at top level is this file
+
+## Everything after this is old stuff and thus I may want to reconsider it being in my todo list.
+
+~~Create an official timeline~~ 
+
+~~Check how much time elapsed between eating from tree and exile~~
+
+~~Should look into the first example of lying in the bible to see if it's plausible that [[Consider/Cain]] had no concept of it when he said am i my brother's keeper?~~
 
 I need to decide how I feel about the meanings of the various characters' names.  It seems like I should understand that.  I think I still want to avoid modern interpretations but the literal meanings of their names seems pretty relevant.  Or not.  I don't want to view them as symbols.  I want to take them literally.  Maybe I should just be aware of the meanings of their names without actively trying to leverage them
 - Then again, it's pretty postmodern to be aware of the text.  Maybe I should lean into that
