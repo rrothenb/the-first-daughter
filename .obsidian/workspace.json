@@ -182,9 +182,37 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "f51f59c6fe1650f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Claude - Biological origins of moral intuition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude - Biological origins of moral intuition"
+            }
+          },
+          {
+            "id": "87c8b25c2846929f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comprehensive Project Status Report"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -216,7 +244,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character",
+                "query": "normaliz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -368,22 +396,20 @@
   },
   "active": "a9ca564c06716d50",
   "lastOpenFiles": [
-    "Research/Passive Construction and Power - Obscuring Agency.md",
-    "Todo.md",
-    "To Fix, Reword, or Reject/Summary.md",
-    "Events/Abel's Murder.md",
-    "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
     "Characters/Samyaza.md",
     "To Fix, Reword, or Reject/The Broken Promise.md",
     "To Fix, Reword, or Reject/Cain and Abel's First Murder Mystery.md",
     "To Fix, Reword, or Reject/Core Decisions.md",
+    "Events/Abel's Murder.md",
     "Events",
     "Characters/Aclima.md",
     "Characters/Abel.md",
     "Untitled.base",
     "Characters",
     "To Fix, Reword, or Reject/Biblical Rules in Early Human History.md",
+    "To Fix, Reword, or Reject/Summary.md",
     "To Fix, Reword, or Reject",
+    "Todo.md",
     "Research/Pre-Contact Indigenous Governance in the San Fernando Valley.md",
     "Research/The Shadow Society - Organized Crime and Alternative Morality in San Fernando Valley.md",
     "Research/Systematic Personality Framework, Biblical Character Traits.md",
@@ -391,6 +417,7 @@
     "Research/Complete Character Trait System Based on Dramatica Theory.md",
     "Research/Environment and Daily Life.md",
     "Research/Plants in Jewish Texts, Creation Through Noah's Flood.md",
+    "Research/Passive Construction and Power - Obscuring Agency.md",
     "Research/Theological Perspectives on Divine Judgment.md",
     "Research/The San Fernando Valley, 1821-1900.md",
     "Research/The Watchers.md",
@@ -398,6 +425,7 @@
     "Research/Trauma across millennia - A psychological framework for the wounded immortal.md",
     "Passive_Voice_in_Biblical_Narratives.md",
     "To Fix, Reword, or Reject/Nutshell.md",
+    "To Fix, Reword, or Reject/Core Novel Decisions.md",
     "Searches",
     "Archive",
     "Consider",

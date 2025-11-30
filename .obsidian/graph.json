@@ -15,10 +15,24 @@
       }
     },
     {
+      "query": "path:Conversations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
       "query": "path:Events  ",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#hidden  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 13.4147135416667,
   "linkStrength": 0.278483072916667,
   "linkDistance": 500,
-  "scale": 0.5714245121467676,
-  "close": false
+  "scale": 1.035939496294402,
+  "close": true
 }
