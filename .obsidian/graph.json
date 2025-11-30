@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 6056662
+      }
+    },
+    {
       "query": "path:Characters  ",
       "color": {
         "a": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 13.4147135416667,
   "linkStrength": 0.278483072916667,
   "linkDistance": 500,
-  "scale": 1.2279931909049406,
+  "scale": 0.6288220096924833,
   "close": false
 }

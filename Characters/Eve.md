@@ -252,5 +252,3 @@ _For "Parents Who Don't Understand":_
 - With **God** (Control + Prevent + Oppose) - her Pursue + Test challenges divine authority directly
 
 **Narrative Perspective:** From Awan's analytical viewpoint: Mother who shares her logical approach, who questioned authority first, who pursued knowledge despite consequences. Eve is Awan's model for intellectual courage and analytical thinking, even if Eve can't explain the biological changes Awan experiences. Eve validates Awan's questioning nature because she herself questioned.
-
-#character

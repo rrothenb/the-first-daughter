@@ -228,5 +228,3 @@ _For "Question Authority":_
 - Embodies intellectual courage to question cosmic authority
 
 **Narrative Perspective:** From Awan's analytical viewpoint: Someone who finally thinks like her. If they met, he would be first being (besides possibly Abel, who died young) who shared her Logic + Knowledge + Questioning approach. He could explain things her parents couldn't. He could validate her doubts. He could offer intellectual companionship in a world where everyone else operates on Faith or Feeling. But he also represents ultimate danger - association with him marks humans for divine destruction.
-
-#character

@@ -118,5 +118,3 @@ Witnessed dramatic environmental contrast between lost Eden (lush delta) and har
 - Device similar to Alex in "A Clockwork Orange" - potentially unrealistic but deeply engaging
 - Permission to have her objectively describe physical changes (puberty, pregnancy) without false modesty
 - Unrealistic level of intelligence justified by her unprecedented situation
-
-#character

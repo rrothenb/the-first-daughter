@@ -142,5 +142,3 @@ _For "Parents Who Don't Understand":_
 - Cain's Feeling + Uncontrolled nature needs guidance neither parent can provide
 
 **Narrative Perspective:** From Awan's analytical viewpoint: husband who operates on emotion and impulse, whom she must live with despite fundamental incompatibility. She witnesses his building projects, his determination, his lingering resentment, his inability to process the murder rationally. She raises children with a man who killed his brother - possibly without fully understanding what he was doing.
-
-#character

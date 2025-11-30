@@ -379,5 +379,3 @@ Her Logic + Questioning approach leads her to analyze God's actions objectively:
 - Abusive (disproportionate punishments)
 
 She cannot worship this being with integrity. Her analytical mind won't allow her to ignore the evidence of divine dysfunction.
-
-#character

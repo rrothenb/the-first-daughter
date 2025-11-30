@@ -205,5 +205,3 @@ Together they:
 Simple recording, no details. Died having fulfilled his role - established righteous lineage, fathered Enosh, carried tradition forward.
 
 **Narrative Perspective:** From Awan's analytical viewpoint: Younger brother born into role defined by tragedy. Expected to be Abel (whom she knew well and was supposed to marry). Carries pressure of righteousness without Abel's innocent simplicity. Eventually marries Aclima (Awan's sister), creating family connection. Awan would observe his development with interest - how does someone born into "replacement" role develop authentic self?
-
-#character

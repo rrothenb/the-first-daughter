@@ -163,5 +163,3 @@ _For "Parents Who Don't Understand":_
 - Intuitive rather than analytical processing of unprecedented experiences
 
 **Narrative Perspective:** From Awan's analytical viewpoint: Sister who thinks differently but complementarily. When Awan analyzes theological problems, Aclima solves practical ones. When Awan questions divine logic, Aclima figures out how to live despite divine chaos. Their different approaches create both friction and synergy - Awan might find Aclima's pragmatism insufficiently rigorous, while Aclima might find Awan's analysis impractical. But they need each other.
-
-#character

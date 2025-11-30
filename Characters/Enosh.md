@@ -237,5 +237,3 @@ _For "Parents Who Don't Understand":_
 - But still processing unprecedented family history
 
 **Narrative Perspective:** From Awan's analytical viewpoint (if she lived to see him): Her nephew who systematizes what she questions. While she analyzes theological inconsistencies, Enosh creates communal practices around those same theological concepts. He's not questioning whether to worship - he's organizing HOW to worship. This might frustrate her (why formalize relationship with problematic deity?) or intrigue her (fascinating to watch social structure emerge from theological need).
-
-#character

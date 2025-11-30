@@ -1,5 +1,3 @@
-# Abel's Murder
-
 **Date & Context:** Occurred when Cain and Abel were likely young adults. First death in human history.
 
 **Preceding Events:** Both brothers brought offerings to God:

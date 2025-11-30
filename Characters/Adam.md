@@ -226,5 +226,3 @@ _For "Parents Who Don't Understand":_
 - Contemplates deeply but cannot translate to effective guidance
 
 **Narrative Perspective:** From Awan's analytical viewpoint: Father who dwells on lost paradise, cannot explain what she experiences, deflects when she asks hard questions, offers emotion when she needs logic, waits passively when she needs active guidance. She likely recognizes early that she cannot rely on him for understanding her unprecedented experiences.
-
-#character

@@ -1,4 +1,4 @@
-- Abel’s death
+- [[Abel’s death]]
 - Eve’s death
 - Awan’s puberty
 - Awan’s menopause

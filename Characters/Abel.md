@@ -154,5 +154,3 @@ _For "Parents Who Don't Understand":_
 - Abel's gentle faith might have seemed foreign to parents still processing their own exile
 
 **Narrative Perspective:** From Awan's analytical viewpoint: Abel was her intellectual equal, the brother she could reason with, possibly the spouse she was suited for. His death was humanity's first experience of irreversible loss. Watching him die meant witnessing something completely unprecedented and unexplainable. Then having to marry and live with his killer for 50+ years while remembering what Abel represented - logic, gentleness, compatibility.
-
-#character
