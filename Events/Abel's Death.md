@@ -310,5 +310,3 @@ These diverging lines suggest:
 - Raised children descended from both victim's family and killer
 
 This makes her unique witness to the foundational human trauma, processing it with Logic + Analysis rather than Faith + Acceptance.
-
-#event

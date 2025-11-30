@@ -304,5 +304,3 @@ The Switch isn't simple realignment - it's complex negotiation of:
 - Individual suffering vs. collective survival
 - Justice vs. necessity
 - Choice vs. circumstance
-
-#event

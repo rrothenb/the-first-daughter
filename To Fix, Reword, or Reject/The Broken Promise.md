@@ -308,5 +308,3 @@ All subsequent theology must address: Why should we trust God's words when the f
 - She cannot accept "it meant something else" without evidence
 - This foundational discrepancy underlies all her theological questioning
 - The Broken Promise is Exhibit A in her case against divine credibility
-
-#event

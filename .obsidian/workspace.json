@@ -182,9 +182,65 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "03d05a4c0740578a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traumas/Accidental Death.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accidental Death"
+            }
+          },
+          {
+            "id": "ed93566c03a5d6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traumas/Death by old age.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Death by old age"
+            }
+          },
+          {
+            "id": "e61544f6434fa9b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traumas/Exile by God.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exile by God"
+            }
+          },
+          {
+            "id": "455163cecd18da1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -267,6 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +333,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -365,10 +422,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f473bc0d08462a2d",
+  "active": "455163cecd18da1c",
   "lastOpenFiles": [
-    "Concepts/Events.md",
+    "Searches/Noteworthy.md",
+    "Traumas/Accidental Death.md",
+    "Traumas/Traumas.md",
+    "Traumas/Death by old age.md",
+    "Traumas/Ignored by God.md",
+    "Traumas/Exile by God.md",
+    "To Fix, Reword, or Reject/The Marriage Switch.md",
+    "To Fix, Reword, or Reject/The Broken Promise.md",
     "Events/Abel's Death.md",
+    "Concepts/Events.md",
     "Concepts/Characters.md",
     "Concepts",
     "Characters/Seth.md",
@@ -381,22 +446,15 @@
     "Characters/Adam.md",
     "Characters/Aclima.md",
     "Characters/Abel.md",
-    "Traumas/Traumas.md",
     "Todo.md",
-    "Untitled.md",
     "Events.md",
     "Traumas.md",
     "Traumas",
     "Research/Passive Construction and Power - Obscuring Agency.md",
     "To Fix, Reword, or Reject/Summary.md",
-    "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
-    "To Fix, Reword, or Reject/The Broken Promise.md",
-    "To Fix, Reword, or Reject/Cain and Abel's First Murder Mystery.md",
-    "To Fix, Reword, or Reject/Core Decisions.md",
     "Events",
     "Untitled.base",
     "Characters",
-    "To Fix, Reword, or Reject/Biblical Rules in Early Human History.md",
     "To Fix, Reword, or Reject",
     "Searches",
     "Archive",

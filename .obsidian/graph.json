@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Concepts  ",
+      "query": "path:Research  ",
       "color": {
         "a": 1,
         "rgb": 6056662
@@ -27,6 +27,27 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "path:Traumas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14071388
+      }
+    },
+    {
+      "query": "path:\"To Fix, Reword, or Reject\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13158600
+      }
+    },
+    {
+      "query": "path:Searches  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +60,6 @@
   "repelStrength": 13.4147135416667,
   "linkStrength": 0.278483072916667,
   "linkDistance": 500,
-  "scale": 0.6288220096924833,
+  "scale": 1.0108651066123524,
   "close": false
 }
