@@ -1,0 +1,9 @@
+- Abel
+- Aclima 
+- Adam
+- Awan 
+- Samyaza
+- Cain
+- Seth
+- Eve
+- God

@@ -1,4 +1,6 @@
-The first thing I need to do is review this old todo list
+I’m not sure where to start in cleaning up this bloated vault. There’s a lot that’s wrong or redundant. I need to find where Claude proposed guilt as something Samyaza would experience and delete that
+
+I think that cleaning up the vault is higher priority than general reading and looking for things that excite me
 
 I think my next step is primarily just reading stuff and making notes on the stuff that excites or interests or puzzles me.  In order to write an engaging novel I need engaging material
 
