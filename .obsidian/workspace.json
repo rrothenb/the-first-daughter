@@ -231,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
+                "file": "Research/The Journey to Eridu and the Watchers' \"Teachings\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samyaza's Story Types - How Memory Architecture Differs"
+              "title": "The Journey to Eridu and the Watchers' \"Teachings\""
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
+                "file": "Research/The Journey to Eridu and the Watchers' \"Teachings\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Samyaza's Story Types - How Memory Architecture Differs"
+              "title": "Backlinks for The Journey to Eridu and the Watchers' \"Teachings\""
             }
           },
           {
@@ -424,9 +424,10 @@
   },
   "active": "455163cecd18da1c",
   "lastOpenFiles": [
-    "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",
     "Todo.md",
+    "Research/The Journey to Eridu and the Watchers' \"Teachings\".md",
     "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
+    "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",
     "Searches/Noteworthy.md",
     "Traumas/Accidental Death.md",
     "Traumas/Traumas.md",
@@ -450,7 +451,6 @@
     "Characters/Aclima.md",
     "Characters/Abel.md",
     "Events.md",
-    "Traumas.md",
     "Traumas",
     "Events",
     "Untitled.base",
