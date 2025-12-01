@@ -231,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Samyaza's Story Types - How Memory Architecture Differs"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Samyaza's Story Types - How Memory Architecture Differs"
             }
           },
           {
@@ -424,6 +424,9 @@
   },
   "active": "455163cecd18da1c",
   "lastOpenFiles": [
+    "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",
+    "Todo.md",
+    "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
     "Searches/Noteworthy.md",
     "Traumas/Accidental Death.md",
     "Traumas/Traumas.md",
@@ -446,12 +449,9 @@
     "Characters/Adam.md",
     "Characters/Aclima.md",
     "Characters/Abel.md",
-    "Todo.md",
     "Events.md",
     "Traumas.md",
     "Traumas",
-    "Research/Passive Construction and Power - Obscuring Agency.md",
-    "To Fix, Reword, or Reject/Summary.md",
     "Events",
     "Untitled.base",
     "Characters",
