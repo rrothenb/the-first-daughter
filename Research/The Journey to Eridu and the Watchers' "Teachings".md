@@ -1,5 +1,3 @@
-# The Journey to Eridu and the Watchers' "Teachings"
-
 ## Research Summary for "The Book of Awan"
 
 **Date:** December 2, 2025
