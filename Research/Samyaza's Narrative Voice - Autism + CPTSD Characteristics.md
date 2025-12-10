@@ -1,11 +1,26 @@
+# Samyaza's Narrative Voice - Autism + CPTSD Characteristics
+
 ## Overview: The Intersection
 
-Samyaza is writing from post-apocalyptic isolation about catastrophic trauma he witnessed millennia ago. He is:
+Samyaza is writing from millennia of isolation about catastrophic loss. He is:
 - **Autistic** (high-functioning, pre-modern diagnosis era)
-- **CPTSD survivor** (witnessed the flood, lost everyone, millennium of isolation)
+- **CPTSD survivor** (lost everyone he loved, learned of their fate centuries later, millennia of isolation)
 - **Writing as attempt at meaning-making** (systematic effort to process the unprocessable)
 
-The combination creates a unique narrative voice where literal, systematic thinking collides with fragmented traumatic memory.
+The combination creates a unique narrative voice where literal, systematic thinking collides with grief, guilt, and the horror of reconstructed knowledge.
+
+### The Nature of His Trauma
+
+**Critical distinction:** Samyaza did not witness the flood. He was imprisoned before or during it—bound in the valleys of the earth, unable to see, unable to help, unable to know what was happening. 
+
+He learned what happened to Awan and everyone he loved **centuries later**, through the Spanish mission system, when friars taught biblical stories to indigenous converts and Samyaza—existing on the margins, passing as one of the displaced—finally heard Genesis read aloud.
+
+This creates a different but equally devastating form of trauma:
+- **The not-knowing**: Centuries of uncertainty about what happened
+- **The secondhand horror**: Learning the details from texts written by the perpetrator (God) and his apologists
+- **The reconstruction**: His autistic mind obsessively piecing together what must have happened from fragmentary, biased sources
+- **The powerlessness**: He could not warn them, could not save them, could not even witness their deaths
+- **The framing**: The texts that told him what happened also told him it was *righteous*—that everyone he loved deserved to die
 
 ---
 
@@ -14,20 +29,9 @@ The combination creates a unique narrative voice where literal, systematic think
 ### 1. Hyper-Detailed Sensory Observations vs. Emotional Gaps
 
 **The Pattern:**
-Autistic sensory processing intensifies traumatic sensory memories. He can recall exact physical details with crystalline precision while being unable to access or articulate the emotional meaning.
+Autistic sensory processing means he can recall exact physical details from his time with Awan with crystalline precision, while being unable to access or articulate the emotional meaning. His memories of *her* are vivid; his knowledge of *the flood* is reconstructed from texts.
 
 **Examples:**
-
-```
-GOOD: "The water was 11°C when it reached the valley floor—I know because 
-my hands went numb at the exact moment I lost grip on the rope. The color 
-was wrong. Floodwater should be brown with displaced earth, but this was 
-grey-green, the color of a three-day-old bruise. It moved at approximately 
-40 kilometers per hour. I calculated this by tracking a cedar log that 
-passed from the north ridge to the southern escarpment in 47 seconds."
-
-BAD: "The flood was terrifying and everyone was scared."
-```
 
 ```
 GOOD: "Awan's hair—I can still see every strand. She wore it in seven braids, 
@@ -39,138 +43,202 @@ of telling her? But now I think about that braid and I cannot [text breaks off]"
 BAD: "I loved Awan and miss her terribly."
 ```
 
-### 2. Literal Processing of Traumatic Events
+```
+GOOD: "The irrigation channels she designed: seven primary, forty-three 
+secondary, two hundred and nine tertiary. I can draw the complete system 
+from memory. I have drawn it 2,847 times across six millennia. Each time 
+I think: she built this. Each time I think: it is under sediment now. 
+Each time I think: I never saw it destroyed. I only know it was."
+
+BAD: "Her engineering work was impressive and I miss it."
+```
+
+### 2. Reconstructed Knowledge vs. Witnessed Memory
 
 **The Pattern:**
-Autistic literal thinking means he describes unbearable things directly, without neurotypical emotional buffering or euphemism. This creates moments of stark, uncomfortable honesty.
+His memories of Awan and their life together are firsthand—vivid, sensory, real. His knowledge of the flood comes from texts he encountered millennia later. He is acutely aware of this distinction and it torments him.
 
 **Examples:**
 
 ```
-GOOD: "Cain's son was four years old. I know this because Awan had mentioned 
-his birth during the third spring after the garden. He drowned in the first 
-wave. I watched him drown. He was not afraid at first—he thought it was 
-play. Then he understood it was not play. This took approximately six seconds. 
-He lived for another forty-three seconds after that understanding."
+GOOD: "I know the following things directly:
+- The sound of her voice when she was tired
+- The smell of the bread she preferred
+- The way she gestured when explaining hydraulic principles
+- The specific quality of afternoon light in the valley in late summer
 
-BAD: "The children died, which was the worst part."
+I know the following things from texts written by people who were not there:
+- That 'the waters prevailed so mightily on the earth that all the high 
+  mountains under the whole heaven were covered'
+- That 'everything on the dry land in whose nostrils was the breath of 
+  life died'
+- That this was righteous
+
+The first category is true. The second category is someone else's account. 
+I cannot reconcile them. I have been trying for 1,500 years, since a Franciscan 
+friar read Genesis aloud in a language I had just learned, and I understood 
+for the first time what had happened while I was bound in darkness."
+
+BAD: "I learned about the flood later and it was hard to accept."
 ```
 
 ```
-GOOD: "People ask why God did it. They don't ask why literally. They ask 
-philosophically, metaphorically, rhetorically. I don't understand those questions. 
-The literal answer is: because he decided to. He decided, and then the water came. 
-These are facts with clear causal relationship."
+GOOD: "The friar said 'And God saw that the wickedness of man was great in 
+the earth.' I wanted to ask: which men? I knew those men. I knew their names. 
+I knew which ones were kind to strangers and which ones weren't. I knew 
+Awan's nephew who was four years old. What wickedness did he commit?
 
-BAD: "We struggled to understand God's mysterious ways."
+But I could not ask. I was pretending to be someone who had never heard 
+this story. I was pretending to be someone learning about God's mercy for 
+the first time. I sat in the mission chapel and learned that everyone I 
+loved had been wicked and deserved to drown, and I said nothing, because 
+what could I say? Who would believe me?"
+
+BAD: "The religious framing of the flood was hard to hear."
 ```
 
 ### 3. Systematic Attempts at Organization That Break Down
 
 **The Pattern:**
-He tries to impose order through categorization, chronology, lists, patterns—typical autistic coping. But traumatic memory won't cooperate with systems, causing visible breakdown in the text.
+He tries to impose order through categorization, chronology, lists, patterns—typical autistic coping. But the gap between his memories and his reconstructed knowledge won't cooperate with systems.
 
 **Examples:**
 
 ```
-GOOD: "I will proceed chronologically:
+GOOD: "I will proceed with what I know directly:
 
-Day 1: Water began
-Day 2: Water continued
-Day 3: [can't write this]
-Day 4: Most drowning had concluded
-Day 5-40: Water receded
+The valley: approximately 40 kilometers long, 15 kilometers wide
+Population when I was imprisoned: estimated 12,000 persons
+Awan's location when I last saw her: the eastern settlement, near the 
+  irrigation hub she had designed
 
-This system is not working. I'll try by location instead.
+I will proceed with what Genesis claims:
 
-Northern valley: 2,400 dead
-Southern valley: 1,800 dead  
-Eastern slope: [I can smell it. Why can I smell it? There's no water here. 
-The San Fernando Valley is a desert. But I smell the flood.]
+Duration: 40 days and 40 nights of rain
+Depth: 'fifteen cubits upward did the waters prevail'
+Survivors: 8 persons, none of whom I knew
 
-I'll try by person.
+I will attempt to reconcile these:
 
-Awan: [later]
-Her sister: drowned
-Her brother: drowned  
-Her mother: [I'm going to walk around the block and try this again]"
+[This section has been blank for 400 years. I keep opening the document 
+and looking at it. I cannot write the reconciliation because there is 
+no reconciliation. The numbers don't work. 12,000 people minus 8 people 
+equals everyone I knew. I keep doing this arithmetic as if it will 
+change.]"
 
-BAD: "The flood was chaotic and impossible to describe in order."
+BAD: "It was hard to connect my memories with the biblical account."
 ```
 
 ### 4. Special Interests as Cognitive Life Raft
 
 **The Pattern:**
-His special interests (engineering, mathematics, natural systems) provide stable cognitive ground when traumatic memory threatens to overwhelm. He retreats into technical detail.
+His special interests (engineering, mathematics, natural systems, textual analysis) provide stable cognitive ground when grief threatens to overwhelm. He retreats into technical detail—but now that technical detail includes obsessive biblical scholarship.
 
 **Examples:**
 
 ```
-GOOD: "I should write about the screaming but instead I will describe the 
-hydraulic principles involved. Water pressure at depth follows P = ρgh where 
-ρ is fluid density, g is gravitational acceleration, and h is depth. At the 
-deepest point of the valley, this would have been approximately 850 kPa. 
-The human body can withstand roughly 400 kPa before structural compromise of 
-the thoracic cavity. I calculated this long after it mattered. I calculated 
-it four hundred years after it mattered. I'm still calculating it."
+GOOD: "I should write about missing her but instead I will describe the 
+hydraulic principles of the irrigation system she designed. Water pressure 
+follows P = ρgh where ρ is fluid density, g is gravitational acceleration, 
+and h is depth. She understood this intuitively before I gave her the 
+formula. She said 'the water knows where to go, you just have to show it 
+the path.' I gave her the mathematics and she gave me the poetry.
 
-BAD: "The technical aspects were fascinating despite the horror."
+The mathematics still work. The poetry is gone. I keep doing the calculations 
+as if they will bring her back."
+
+BAD: "I cope by thinking about technical things."
 ```
 
 ```
-GOOD: "Awan designed the irrigation system. Seven primary channels, forty-three 
-secondary, two hundred and nine tertiary. She calculated optimal flow rates 
-for each crop. She knew that barley required 450-650mm of water annually while 
-wheat required 450-600mm and you had to adjust the gate positions based on 
-seasonal rainfall predictions and soil permeability and [she is dead she is 
-dead she has been dead for six thousand years and I still see her adjusting 
-those gates]"
+GOOD: "I have read Genesis in 847 translations. I have compared the Masoretic 
+text to the Septuagint to the Vulgate to the Peshitta. I have analyzed 
+every word choice. 'Mabbul' appears 13 times in the flood narrative. It 
+means 'deluge' but its etymology is disputed. Some say it derives from 
+'yabal,' to flow. Others connect it to 'balal,' to confuse or mix.
 
-BAD: "Awan was brilliant and I miss her work."
+I have spent 200 years on this etymology. I tell myself it matters. It 
+does not matter. She is still dead regardless of which Hebrew root applies. 
+But I cannot stop analyzing the text because the text is all I have. The 
+text and my memories. The memories of her are precious. The text is a lie 
+that contains the only record of how the lie was carried out."
+
+BAD: "I studied the Bible carefully to understand what happened."
 ```
 
-### 5. Fragmented Non-Linear Memory Intrusion
+### 5. The Trauma of Secondhand Knowledge
 
 **The Pattern:**
-CPTSD means traumatic memories intrude as sensory fragments—color, texture, smell, sound—interrupting linear narration. These intrusions are involuntary, visceral, present-tense.
+CPTSD from learning about catastrophic loss, not witnessing it. The intrusive thoughts are about *what must have happened*—imagination filling gaps the texts leave empty. This is in some ways worse: he cannot stop his mind from constructing scenes he never saw.
 
 **Examples:**
 
 ```
-GOOD: "I am trying to explain the theological implications of—
+GOOD: "I do not know how she died. Genesis does not include this information. 
+Genesis does not name her. Genesis says 'all flesh died that moved upon 
+the earth' and does not specify which flesh belonged to Awan.
 
-[smell of wet earth and copper]
+My mind fills in details. I cannot stop it. I imagine:
+- Did the water reach her quickly or slowly?
+- Was she alone or with family?
+- Did she think of me?
+- Did she know I would have saved her if I could?
+- Did she know I was alive, somewhere, unable to help?
 
-—the choice to flood rather than simply unmake. From an engineering standpoint—
+These are not memories. They are constructions. I know they are constructions. 
+I cannot stop constructing them. I have been constructing them for 1,500 
+years since I learned what happened."
 
-[sound: water against mud brick, the specific pitch of saturation and collapse]
+BAD: "I often wonder how she died."
+```
 
-—this suggests intentionality in the suffering component, not merely—
+```
+GOOD: "Last night I could not sleep because I was calculating water rise 
+rates. If 'the waters prevailed upon the earth an hundred and fifty days' 
+and 'all the high hills, that were under the whole heaven, were covered,' 
+then the rate of rise would have been—
 
-[the way a body looks after three days in water]
+I am doing this again. I am trying to determine the precise hydraulics of 
+her death. As if knowing the rate of rise would help. As if I could 
+engineer my way backward through time and warn her. As if the mathematics 
+could undo the mathematics.
 
-I'm going to stop writing today."
+She designed irrigation systems. She understood water. She would have 
+known, watching the water rise, exactly how long she had. She would have 
+done the calculations. She would have known there was no high ground 
+high enough.
 
-BAD: "The memories sometimes interrupted my thoughts about theology."
+I cannot stop thinking about what she knew in those final hours. I was 
+not there. I will never know. I cannot stop trying to calculate what 
+I will never know."
+
+BAD: "The uncertainty about her death is painful."
 ```
 
 ### 6. Difficulty with Theory of Mind in Retrospect
 
 **The Pattern:**
-Autistic difficulty modeling others' mental states means he struggles to understand why people made certain choices, even people he loved. He states confusion directly rather than pretending to understand.
+Autistic difficulty modeling others' mental states means he struggles to understand why people made certain choices—including why she stayed when she could have fled to higher ground, why no one listened to warnings, why God decided what he decided.
 
 **Examples:**
 
 ```
-GOOD: "Awan chose to stay with her family. I understand the words 'chose to stay' 
-and the words 'with her family' but I don't understand the decision. I had built 
-a boat. The boat could hold fifteen people. I explained the boat to her. I showed 
-her the calculations. She said 'I know, but I can't.' I still don't know what the 
-'but' meant in that sentence. What was the logical connector between knowledge of 
-the boat and inability to board the boat? I've had 6,000 years to understand the 
-'but' and I don't."
+GOOD: "The text says Noah warned people. The text says they did not listen. 
+I want to ask: what exactly did he say? How did he phrase it? Did he 
+explain the engineering specifications of the ark? Did he provide data 
+on projected rainfall?
 
-BAD: "Awan made her choice and I had to respect it."
+I do not understand why people would not listen to clear data. I did not 
+understand this when I was with them, and I do not understand it now. 
+Awan understood. She used to translate my explanations into language 
+other people could accept. She said 'You give them the numbers and I 
+give them the story. Both are necessary.'
+
+There was no one to give them the story about the flood. Or the story 
+was wrong. Or they heard the story and did not believe it. I do not 
+know which. I cannot ask them. The text does not say."
+
+BAD: "It's hard to understand why people didn't listen to warnings."
 ```
 
 ### 7. Emotional Dysregulation Expressed as Narrative Disruption
@@ -181,21 +249,44 @@ Both autism and CPTSD involve emotional regulation difficulties. In text, this m
 **Examples:**
 
 ```
-GOOD: "The water reached the eastern ridge at approximately 3 PM on the second 
-day. I was watching from the boat. Specifically I was watching the house where—
+GOOD: "I am attempting to write a systematic account of my relationship 
+with Awan. I will begin with our first meeting.
 
-NO. 
+The forty-seventh day after the descent. She was adjusting an irrigation 
+gate. The light was—
 
-Different topic. The water. The water was grey-green and moved at—
+The light was—
 
-I CANNOT DO THIS.
+She is dead. I learned this from a Franciscan friar in 1769. I sat in 
+a chapel built with indigenous forced labor and I learned that the woman 
+I loved had drowned approximately 6,000 years earlier and that this was 
+good, this was just, this was God's righteous judgment upon the wicked.
 
-[six pages blank]
+I am not able to write about the light right now."
 
-Meteorological conditions on day seven: partly cloudy, wind from the northwest 
-at 8-12 kph, temperature estimated at 18°C. This I can describe. This is safe."
+BAD: "It's hard to write about her without getting emotional."
+```
 
-BAD: "It was hard to write about the emotional aspects."
+```
+GOOD: "Genesis 7:23: 'And every living substance was destroyed which was 
+upon the face of the ground, both man, and cattle, and the creeping things, 
+and the fowl of the heaven; and they were destroyed from the earth: and 
+Noah only remained alive, and they that were with him in the ark.'
+
+Every living substance.
+Both man.
+And cattle.
+And the creeping things.
+And the fowl of the heaven.
+And they were destroyed from the earth.
+
+I have read this verse 10,000 times. I keep reading it. I keep thinking 
+if I read it enough times it will stop being true. It does not stop 
+being true. She was a living substance. She was destroyed from the earth.
+
+I need to stop writing today."
+
+BAD: "The biblical verses about the flood are hard to read."
 ```
 
 ### 8. Masking Fatigue in the Text Itself
@@ -206,65 +297,83 @@ Autistic masking (performing neurotypical behavior) is exhausting. In his writin
 **Examples:**
 
 ```
-GOOD: "I should begin with proper narrative structure. Setting: The valley before 
-the flood was approximately 40 kilometers long and 15 kilometers wide, situated 
-between two mountain ranges. Population: estimated 12,000 persons, though census 
-methods were imprecise. Climate: Mediterranean with— 
+GOOD: "I should begin with proper narrative structure. I have studied 
+narrative structure extensively. I have read every craft book. I understand 
+three-act structure, the hero's journey, in medias res, frame narratives.
 
-Why am I writing like this? There's no one to impress. There's no one left who 
-cares about 'proper narrative structure.' 
+I am attempting to employ a frame narrative: the present-day narrator 
+recounting ancient events. This is a well-established technique. It 
+creates productive distance between the telling and the told.
 
-The valley smelled like barley and human shit and Awan's hair oil which she made 
-from pressed olives and some flower I can't remember the name of and THIS IS THE 
-TRUTH even if it's not 'proper.'"
+The distance is not helping. The distance is a lie. There is no distance. 
+She is dead and I am here and I learned about her death from people who 
+celebrated it as divine justice and I am supposed to write this with 
+'productive distance'?
 
-BAD: "I will try to tell this story properly, though it's difficult."
+I do not know how to write this. I only know I have to write this. No 
+one else will."
+
+BAD: "I'm trying to tell this story properly but it's difficult."
 ```
 
-### 9. Echolalia and Repetitive Phrases
+### 9. Repetitive Thought Patterns
 
 **The Pattern:**
-Autistic echolalia (repetition of phrases) meets CPTSD's rumination patterns. Certain phrases loop, both as self-soothing and as stuck cognitive records.
+Autistic repetitive cognition meets CPTSD's rumination. Certain phrases and calculations loop, both as self-soothing and as stuck cognitive records.
 
 **Examples:**
 
 ```
-GOOD: "The water came and the water came and the water came. This is not poetic 
-repetition. This is how I think about it. The water came and the water came and 
-the water came for forty days but really it came all at once, in the first six hours 
-everyone who was going to drown had drowned, but the water came and the water came—
+GOOD: "She died and I was not there. She died and I was not there. She 
+died and I was not there.
 
-I need to stop saying that.
+This is not poetic repetition. This is how I think about it. The thought 
+arrives and does not leave. She died and I was not there. I was bound 
+in darkness, I did not know, I could not help, I was not there.
 
-The water came and the water came and—"
+I have been thinking this thought for 1,500 years. The thought does not 
+change. The thought does not resolve. She died and I was not there and 
+I will be thinking this until whatever counts as death for me finally 
+arrives.
 
-BAD: "The flood continued for many days."
+She died and I was not there."
+
+BAD: "I think about her death often."
 ```
 
-### 10. Pattern Recognition Applied to Meaning-Making
+### 10. Pattern Recognition Applied to Textual Analysis
 
 **The Pattern:**
-Autistic pattern recognition is a strength, but he applies it to trying to find patterns in divine behavior or moral causation—areas that may not have logical patterns. This creates cognitive dissonance visible in the text.
+Autistic pattern recognition is a strength, but he applies it obsessively to biblical texts trying to find patterns in divine behavior or moral causation—trying to understand, trying to find logic in genocide.
 
 **Examples:**
 
 ```
-GOOD: "I have analyzed the survivor selection criteria for 6,000 years.
+GOOD: "I have analyzed the survivor selection criteria across every 
+available textual tradition:
 
-Noah: righteous (stated reason)
-Noah's wife: married to righteous person  
-Sons: offspring of righteous person
-Sons' wives: married to offspring of righteous person
+Genesis: Noah was 'righteous' and 'blameless'
+1 Enoch: Noah was chosen before birth
+Jubilees: Noah was 'perfect in his generations'
 
 But:
 - Awan was righteous by any measurable metric
-- Cain's son was four years old (no moral agency)
-- The woman in the northern settlement who fed travelers (never mentioned in the accounting)
+- Her nephew was four years old (no moral agency)
+- The woman in the northern settlement who fed travelers (never 
+  mentioned in any accounting)
 
-The pattern doesn't hold. I keep trying to make the pattern hold. If the pattern 
-held, it would mean there was logic. There was no logic. But I can't stop looking 
-for the pattern because if there's no pattern then it was arbitrary and if it was 
-arbitrary then—"
+The pattern does not hold. I have been trying to make the pattern hold 
+for 1,500 years. If the pattern held, it would mean there was logic. 
+I could understand logic. I could accept logic, even cruel logic.
+
+There was no logic. There was only power. Power that chose eight people 
+and drowned everyone else and then had scribes write that this was 
+righteous.
+
+I cannot stop looking for the pattern. If I stop looking for the pattern, 
+I have to accept that it was arbitrary. If it was arbitrary, then there 
+was nothing she could have done. If there was nothing she could have 
+done, then—"
 
 BAD: "The selection of survivors seemed unfair and random."
 ```
@@ -275,36 +384,38 @@ BAD: "The selection of survivors seemed unfair and random."
 
 ### Temporal Disruption
 - Present tense intrusions into past tense narration
-- Sudden shifts between "then" (6000 years ago) and "now" (San Fernando Valley)
-- Uncertain transitions: "I am writing about the third day. Or maybe the fourth. Or maybe I'm writing about yesterday."
+- Sudden shifts between "then" (6,000 years ago) and "now" (San Fernando Valley)
+- Collapse of time between the moment of loss and the present moment of writing
+
+### The Gap Between Memory and Knowledge
+- Clear distinction between what he witnessed (life with Awan) and what he learned (the flood)
+- The horror of reconstruction—imagining what he didn't see
+- Textual analysis as both coping mechanism and source of retraumatization
 
 ### White Space as Communication
 - Literal gaps in the text where he cannot continue
 - Section breaks that indicate "I walked away and came back"
-- Blank pages between fragments
+- Incomplete sentences that trail off
 
 ### Meta-Commentary
 - Direct acknowledgment of his writing process
 - Statements about what he cannot write, will not write, should write
-- Recognition of his own patterns: "I'm doing the thing where I describe technical details to avoid feelings again"
+- Recognition of his own patterns: "I'm doing the thing where I analyze Hebrew etymology to avoid feelings again"
 
 ### Sensory Anchoring
 - Grounding in specific, measurable details when overwhelmed
 - Return to safe sensory observations (current temperature, sound of traffic, texture of paper)
-- Contrasting ancient sensory memories with present-day San Fernando Valley sensations
+- Contrasting vivid ancient memories with the muted present
 
 ### Failed Organizational Systems
-- Multiple abandoned attempts at structure (chronological, geographical, by person, by theme)
+- Multiple abandoned attempts at structure (chronological, thematic, by source text)
 - Lists that break down mid-list
 - Outlines that never get filled in
-
-### Contradictory Statements
-- Not as confusion, but as genuine shifts in understanding
-- "She was the most important person in the world. / She was one person among thousands. / Both of these are true."
+- Comparative textual analyses that lead nowhere
 
 ### Literal Confrontation with Euphemism
 - Active rejection of comforting language
-- "They say 'passed away.' They drowned. That's the accurate verb."
+- "The text says 'perished.' The accurate word is 'drowned.' The text does not want to say 'drowned' because drowning is specific and horrible and 'perished' sounds peaceful."
 
 ---
 
@@ -315,7 +426,8 @@ BAD: "The selection of survivors seemed unfair and random."
 3. **Demonstrates neurodivergence without stating it** - Show through structure, not description
 4. **Creates intimacy through vulnerability** - His inability to mask in writing brings the reader into genuine internal experience
 5. **Challenges divine narrative** - His literal, systematic thinking exposes logical failures in religious justification
-6. **Honors both conditions** - Neither the autism nor the CPTSD is "the problem"—both are authentic ways of being that shape his relationship to memory and meaning
+6. **Honors both conditions** - Neither the autism nor the CPTSD is "the problem"—both are authentic ways of being that shape his relationship to memory, knowledge, and meaning
+7. **Explores the horror of secondhand knowledge** - Sometimes not witnessing is its own form of trauma
 
 ---
 
@@ -327,10 +439,36 @@ BAD: "The selection of survivors seemed unfair and random."
 - Resolve the trauma with neat healing arc - CPTSD doesn't work that way
 - Make every autistic trait about special abilities - include the genuinely difficult parts
 - Forget he's a person writing, not symptoms writing
+- Give him detailed sensory memories of events he didn't witness
 
 ### Do:
 - Let him be funny, insightful, wrong, contradictory, human
 - Show adaptation and coping without "overcoming"
 - Include moments of connection despite the isolation
 - Demonstrate competence alongside struggle
-- Remember: he's been living with this for 6,000 years - it's not new to him, just persistent
+- Remember: he's been living with this for millennia - it's not new to him, just persistent
+- Distinguish clearly between his vivid memories of Awan and his reconstructed knowledge of her death
+
+---
+
+## The Mission Context
+
+Samyaza learned about the flood through Spanish mission teachings in California, likely in the late 18th century. This context matters:
+
+- He was already displaced, already marginalized, already passing as someone else
+- He learned the story alongside indigenous people who were themselves experiencing cultural genocide
+- The irony is not lost on him: sitting in a mission built by forced labor, hearing about a flood that destroyed everyone he loved, being told this was God's mercy
+- The friars taught Genesis as moral instruction; he heard it as confession of murder
+- He has had approximately 250 years since then to process this knowledge (and has not finished processing it)
+
+This creates additional layers:
+- The texts are not neutral sources but tools of colonial power
+- He understands something about how stories get weaponized
+- He recognizes the pattern: destroy a people, then tell a story about why they deserved it
+- His project of writing Awan's story is partly about refusing to let the victors' narrative stand unchallenged
+
+---
+
+**Document Purpose:** This guide establishes Samyaza's narrative voice as shaped by autism and CPTSD, with the critical understanding that his trauma comes from loss and secondhand knowledge rather than direct witnessing of the flood. His memories of Awan are firsthand and vivid; his knowledge of her death is reconstructed from texts written by those who justified it.
+
+**Last Updated:** Revised to correct the misconception that Samyaza witnessed the flood directly. He was imprisoned before/during the flood and learned what happened centuries later through Spanish mission teachings.
