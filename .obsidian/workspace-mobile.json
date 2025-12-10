@@ -63,8 +63,7 @@
               "title": "Todo"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e00f9fcd2b4307ad",
+  "active": "24a2f499190e7816",
   "lastOpenFiles": [
     "Research/Biblical Rules in Early Human History.md",
     "Characters/Adam.md",

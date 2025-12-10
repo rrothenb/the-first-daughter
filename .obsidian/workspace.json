@@ -217,12 +217,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traumas/Exile by God.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exile by God"
+              "title": "Summary"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character",
+                "query": "layer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -408,8 +408,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abcebba6b6a14e01",
+  "active": "e61544f6434fa9b5",
   "lastOpenFiles": [
+    "current_memory.md",
+    "Summary.md",
+    "Untitled.canvas",
+    "Research/The Watchers.md",
+    "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
+    "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",
+    "Traumas/Exile by God.md",
     "To Fix, Reword, or Reject/The Marriage Switch.md",
     "To Fix, Reword, or Reject/The Broken Promise.md",
     "To Fix, Reword, or Reject/Summary.md",
@@ -423,7 +430,6 @@
     "Research/Watchers and Nephilim.md",
     "Research/Trauma across millennia - A psychological framework for the wounded immortal.md",
     "Research/Theological Perspectives on Divine Judgment.md",
-    "Research/The Watchers.md",
     "Research/The Shadow Society - Organized Crime and Alternative Morality in San Fernando Valley.md",
     "Research/The San Fernando Valley, 2000 BC - 1821.md",
     "Research/The San Fernando Valley, 1945-2025.md",
@@ -431,11 +437,6 @@
     "Research/The San Fernando Valley, 1821-1900.md",
     "Research/The Journey to Eridu and the Watchers' \"Teachings\".md",
     "Research/Systematic Personality Framework, Biblical Character Traits.md",
-    "Research/Samyaza's Story Types - How Memory Architecture Differs.md",
-    "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",
-    "Research/Reading God as tyrant - critical interpretations of Yahweh in Genesis.md",
-    "Research/Pre-Contact Indigenous Governance in the San Fernando Valley.md",
-    "Research/Plants in Jewish Texts, Creation Through Noah's Flood.md",
     "Concepts",
     "Traumas",
     "Events",
@@ -445,7 +446,6 @@
     "Searches",
     "Archive",
     "Consider",
-    "Core",
-    "Untitled.canvas"
+    "Core"
   ]
 }
