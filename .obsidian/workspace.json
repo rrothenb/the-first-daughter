@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Fix, Reword, or Reject/Cain and Abel's First Murder Mystery.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cain and Abel's First Murder Mystery"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -408,7 +408,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e61544f6434fa9b5",
+  "active": "abcebba6b6a14e01",
   "lastOpenFiles": [
     "Research/The architecture of narrative - How stories shape and weaponize human reality.md",
     "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",

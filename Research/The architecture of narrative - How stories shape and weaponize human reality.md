@@ -68,7 +68,7 @@ Gramsci's concept of the "war of position"—the intellectual and cultural strug
 
 ## Theoretical frameworks for the novel project
 
-todo: pull this stuff out of here
+[[todo]]: pull this stuff out of here
 
 These interdisciplinary insights directly illuminate a biblical fiction project that reinterprets Genesis as cautionary tale about divine narcissism, examines narrative weaponization through the chronological gap between original text and later interpretation, and features multiple temporal layers.
 
