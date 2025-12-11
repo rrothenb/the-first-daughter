@@ -42,7 +42,7 @@ This document examines what rules actually existed during Awan's lifetime, the o
 - Property rights
 
 **The Shocking Reality:**
-During Awan's entire lifetime (roughly 75 biblical years / 6-7 actual years), there were **at most 2-3 explicit divine rules** depending on how you count them. Everything else was either:
+During Awan's entire lifetime, there were **at most 2-3 explicit divine rules** depending on how you count them. Everything else was either:
 - Learned through consequences
 - Derived from God's reactions
 - Figured out by humans themselves
@@ -53,12 +53,6 @@ During Awan's entire lifetime (roughly 75 biblical years / 6-7 actual years), th
 ## The 613 Mitzvot: Origins and Timeline
 
 ### When Were They Given?
-
-**The Timeline Gap:**
-- **Awan's era:** Years 0-75
-- **Exodus from Egypt:** Approximately 400 years after Abraham
-- **Mount Sinai:** Shortly after the Exodus
-- **Time gap:** Roughly **1,000+ years** after Awan's death
 
 According to Jewish tradition, God gave ALL 613 commandments to Moses at Mount Sinai - more than a millennium after the antediluvian period.
 
@@ -108,7 +102,7 @@ They're NOT presented as a single list in the Torah itself.
 **Modern Scholarly Assessment:**
 > "Yet, taken as a whole, rabbinic literature hardly supports the claim that the Torah contains 613 commandments and the Babylonian Talmud never takes up the question of what constitutes a commandment for the purposes of this enumeration...there is perhaps no idea that is simultaneously as widely accepted, yet with so little basis in rabbinic literature."
 
-**What's Actually Observ able Today:**
+**What's Actually Observable Today:**
 Many commandments only apply to:
 - Temple service (which no longer exists)
 - Priests (kohanim) specifically
