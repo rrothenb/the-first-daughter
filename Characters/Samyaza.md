@@ -15,9 +15,6 @@ Most sources place the Watchers' descent during the days of Jared (Noah's great-
 - Jared born around year 460-622 in biblical chronology
 - Lived 962 years
 - His name related to "descent" - some traditions say he was named this because Watchers descended during his lifetime
-
-In traditional chronology, this is centuries after Awan's death—meaning Awan never met the Watchers.
-
 ### Your Project Framework
 The Watchers descend during Awan's lifetime, allowing for the Samyaza-Awan relationship to develop. This is a deliberate deviation from traditional chronology.
 
@@ -28,14 +25,16 @@ The Watchers descend during Awan's lifetime, allowing for the Samyaza-Awan relat
 
 **Relationship Timeline:**
 - Samyaza meets Awan when she is past childbearing age (post-450)
-- She is potentially bored and lonely while Cain is busy building the city
 - Their relationship develops over years or decades
 - Reaches mature, loving, platonic partnership in her later centuries
 - Specific timing within her life remains flexible for narrative needs
+- Relationship is based on mutual respect, a shared love of knowledge, and compatible personalities.  Also there's an element of the Westermarck effect.
 
 ---
 
 ## The Watchers
+
+[[todo]]: too fucking preachy and judgmental.  Maybe only need a link to somewhere else where the watchers are described
 
 From 1 Enoch, the sons of God/Watchers were:
 - Heavenly beings (angels)

@@ -217,12 +217,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Samyaza.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samyaza"
+              "title": "Todo"
             }
           }
         ],
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Samyaza.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Samyaza"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -410,9 +410,9 @@
   },
   "active": "e61544f6434fa9b5",
   "lastOpenFiles": [
+    "Characters/Samyaza.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Characters/Samyaza.md",
     "MBTI Character Analysis.md",
     "Research/Cain and Abel's First Murder Mystery.md",
     "Research/Biblical Rules in Early Human History.md",
