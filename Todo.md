@@ -65,3 +65,5 @@ Other potential folders
 - Smells
 - Textures
 - Sights
+
+These may not be folders but metanotes that can be used to link stuff together 
