@@ -1,5 +1,3 @@
-# Samyaza's Narrative Voice - Autism + CPTSD Characteristics
-
 ## Overview: The Intersection
 
 Samyaza is writing from millennia of isolation about catastrophic loss. He is:

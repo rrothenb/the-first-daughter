@@ -28,11 +28,11 @@ This document compiles everything known about the Watchers (Grigori), their lead
 
 ## The Descent and Rebellion
 
-### The Conspiracy (Year 38 Normalized / ~460 Biblical)
+### The Conspiracy
 
-**Traditional Timing:** During Jared's lifetime (Genesis 5:18-20), approximately 460 years after creation, hence "in the days of Jared"
+**Traditional Timing:** During Jared's lifetime (Genesis 5:18-20), approximately 460 years after creation, hence "in the days of Jared." Jared's name is related to "descent" - some traditions say he was named this because Watchers descended during his lifetime.
 
-**Your Project Timeline:** Year 38 normalized (Awan age 30) - a deliberate deviation placing the Watchers during Awan's adult life
+**Your Project Framework:** The Watchers descend during Awan's lifetime, allowing for the Samyaza-Awan relationship to develop. This is a deliberate deviation from traditional chronology to enable the central relationship of the narrative. Specific timing within her life remains flexible for narrative needs.
 
 **The Gathering on Mount Hermon:**
 According to 1 Enoch 6, 200 Watchers gathered on Mount Hermon (also called Ardis in some texts). The mountain's name became associated with the Hebrew word "herem" (חרם) meaning "curse" - marking it as the site where binding oaths sealed their fate.
@@ -140,7 +140,7 @@ According to various traditions:
 - Bound by the archangel Michael
 - Imprisoned in valleys of the earth
 - Held for 70 generations
-- After witnessing destruction of his children, cast into abyss of fire
+- After the destruction of his children, cast into abyss of fire
 - Awaits final judgment
 
 **According to Rabbinic Tradition (Midrash Abkir, Bereshit Rabbati, Yalkut):**
@@ -151,7 +151,7 @@ According to various traditions:
 - Eternal penitence, not imprisonment
 
 **Your Project's Framework:**
-Samyaza imprisoned in the San Fernando Valley, witnessing the development of human communication and society, trying to set the record straight about what actually happened. He serves as the novel's narrator, offering a contemporary voice with ancient memories.
+Samyaza imprisoned in the San Fernando Valley, where he has existed for millennia. He did not witness the flood—he was bound before or during it, unable to see what happened, unable to help. He learned what happened to Awan and everyone he loved centuries later, through Spanish mission teachings when friars read Genesis aloud to indigenous converts. He serves as the novel's narrator, offering a contemporary voice with ancient memories and reconstructed knowledge of catastrophe.
 
 ### Developmental Arc (Your Innovation)
 
@@ -169,7 +169,7 @@ Like the Watchers generally, Samyaza would have been developmentally unprepared 
 - **Mature understanding:** Eventually capable of genuine love and respect
 
 **His Relationship with Awan:**
-- Met her around Year 38 (when she was ~30 years old)
+- Met her during her adult life (specific timing flexible)
 - Developed slowly over many years
 - Reached mature, loving, platonic relationship after her menopause
 - Never attempted sexual relationship with her
@@ -274,7 +274,7 @@ Traditional narrative (from 1 Enoch) describes God sending four archangels to de
 - Actions:
   - Bind Samyaza and his associates
   - Imprison them in valleys of the earth for 70 generations
-  - After they witness destruction of their children, cast them into abyss of fire
+  - After the destruction of their children, cast them into abyss of fire
   - Execute final judgment
 
 ### The Great Flood
@@ -347,43 +347,27 @@ Not the mixing of divine and human, but:
 
 ---
 
-## Timeline Considerations
-
-### Traditional Chronology
-- **Descent:** During Jared's time, ~460 years after creation (Genesis 5:18-20)
-- **Awan's lifespan:** Born ~5-10 years after creation, died ~800-900 years later
-- **Gap:** 270-380 years minimum between Awan's death and Watchers' arrival
-- **Problem:** In traditional timeline, Awan never met the Watchers
-
-### Your Project Timeline (Normalized)
-- **Descent:** Year 38 (Awan age 30)
-- **Deliberate deviation** to place Watchers during Awan's adult life
-- Allows for the Samyaza-Awan relationship to develop
-- Watchers arrive when she's mature, established, past early childbearing
-- Multiple decades for their relationship to grow from initial contact to deep platonic love
-- Imprisonment happens later (timing flexible for narrative needs)
-
-### Important Timeline Gaps in Your Framework
-- **Years 38-45:** Initial Watcher-human interaction period, first Nephilim born
-- **Years 45-60:** Nephilim children growing, Watchers learning emotional complexity
-- **Years 60-75:** Samyaza developing mature relationship with Awan (she's in her 50s-60s, post-menopause)
-- **Year 75:** Awan dies
-- **Years 75-138:** Pre-flood period, continuing corruption, Samyaza imprisoned (at some point)
-- **Year 138:** The Flood
-
----
-
 ## Narrative Function in Your Novel
 
 ### Samyaza as Narrator
 **Why This Works:**
-- He's the rational critic of God with first-hand knowledge
+- He's the rational critic of God with deep knowledge of divine systems
 - Lover of humanity who made ultimate sacrifice to help them
-- Witness to Awan's struggles and the early human experience
+- Knew Awan intimately during her lifetime
 - Imprisoned observer with millennia to reflect on what happened
 - Contemporary voice (San Fernando Valley) connecting ancient events to modern patterns
 - His quest to "set the record straight" provides narrative drive
 - His voice is naturally postmodern (comparing memories to contradictory textual tradition)
+
+**Critical Framework - His Knowledge of the Flood:**
+Samyaza did not witness the flood. He was imprisoned before or during it—bound in darkness, unable to see, unable to help, unable even to know what was happening. He learned what happened to Awan and everyone he loved centuries later, through Spanish mission teachings when friars read Genesis aloud.
+
+This creates a specific kind of narrator:
+- His memories of Awan are vivid, firsthand, sensory
+- His knowledge of her death is reconstructed from hostile texts
+- He has obsessively analyzed Genesis in hundreds of translations
+- He learned about divine genocide from those who framed it as mercy
+- He understands something about how victors write history
 
 ### The Watchers' Emotional Core
 **The Samyaza-Awan Love Story:**
@@ -400,7 +384,6 @@ Not the mixing of divine and human, but:
 - Evidence that God's version of morality isn't the only one
 - Proof that knowledge-sharing is liberating, not corrupting
 - Models of beings who chose compassion over obedience
-- Witnesses to God's narcissistic abuse of humanity
 - Alternative to divine control through mutual respect and partnership
 
 ---
@@ -411,6 +394,7 @@ Not the mixing of divine and human, but:
    - During Awan's lifetime? After her death?
    - Does she witness his punishment?
    - Does he tell her he's going to be imprisoned?
+   - How long is he in darkness before he learns what happened?
 
 2. **How many Nephilim does Samyaza father?**
    - Does Awan know any of them?
@@ -429,8 +413,14 @@ Not the mixing of divine and human, but:
    - Traditional: They became demons/evil spirits after death
    - Your framework: What's their actual fate?
 
+6. **The Mission Context:**
+   - Which mission(s) did he encounter? San Fernando Rey? San Gabriel?
+   - How did he pass among the displaced indigenous people?
+   - What was it like to learn about the flood from friars who celebrated it?
+   - How does this colonial context inform his understanding of how stories get weaponized?
+
 ---
 
 **Document Purpose:** This consolidates all research and decisions about the Watchers, Samyaza, and Nephilim for consistent reference across the novel project. The framework interprets these beings through the Natural Morality lens while maintaining fidelity to what the original texts actually say.
 
-**Last Updated:** During project consolidation, incorporating conversations about Samyaza's character development, relationship with Awan, and role as narrator.
+**Last Updated:** Revised to remove normalized timeline framework and correct the misconception that Samyaza witnessed the flood. He was imprisoned before/during the flood and learned what happened centuries later through Spanish mission teachings.

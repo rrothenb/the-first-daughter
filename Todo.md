@@ -1,3 +1,7 @@
+Review and fix every Research item
+
+Any part of a research item that is actually a specific choice for the book, move to top or think of new directory
+
 Need to decide specifically what relations I need to model
 - Trauma/emotion/feeling
 - Location/place/milieu/environment

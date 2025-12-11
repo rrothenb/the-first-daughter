@@ -1,5 +1,3 @@
-# Samyaza's Story Types - How Memory Architecture Differs
-
 ## Overview
 
 Samyaza has three distinct types of stories to tell, each with its own memory characteristics, reliability, emotional weight, and narrative function. These aren't interchangeable—each type serves different purposes and should be deployed strategically.

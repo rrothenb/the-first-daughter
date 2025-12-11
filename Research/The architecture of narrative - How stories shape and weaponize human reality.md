@@ -68,7 +68,7 @@ Gramsci's concept of the "war of position"—the intellectual and cultural strug
 
 ## Theoretical frameworks for the novel project
 
-These interdisciplinary insights directly illuminate a biblical fiction project that reinterprets Genesis as cautionary tale about divine narcissism, examines narrative weaponization through the chronological gap between original text and later interpretation, and features multiple temporal layers with Talmudic-style commentary.
+These interdisciplinary insights directly illuminate a biblical fiction project that reinterprets Genesis as cautionary tale about divine narcissism, examines narrative weaponization through the chronological gap between original text and later interpretation, and features multiple temporal layers.
 
 **Narrative structure encodes ideology**: The project's reinterpretation of Genesis demonstrates White's insight that emplotment carries political meaning. The same events—Creation, the Garden, the Watchers, the Flood—generate radically different moral implications when cast as tragedy of divine narcissism rather than romance of divine providence. The structure chosen is the argument.
 
@@ -78,7 +78,7 @@ These interdisciplinary insights directly illuminate a biblical fiction project 
 
 **Narrator reliability and perspective**: Wayne Booth's framework separates implied author from narrator from flesh-and-blood author. A post-apocalyptic narrator like Samyaza telling stories from the future creates productive unreliability—readers must assess whose values are operative, whether the narrator's account can be trusted, how temporal distance shapes perception. This signals that truth is always mediated.
 
-**Meta-narrative examining its own medium**: Self-reflexive narrative draws attention to storytelling as constructed artifact. Talmudic-style commentary foregrounds interpretation as the story—where the act of reading, discussing, and transmitting meaning becomes primary action. This creates what Bakhtin would recognize as heteroglossia: multiple voices across time engaging shared texts, authority and interpretation in productive tension, meaning emerging through dialogue across temporal distances.
+**Meta-narrative examining its own medium**: Self-reflexive narrative draws attention to storytelling as constructed artifact.
 
 The framing narrator from the future creates **dramatic irony**: readers know the outcome of events that characters within the story cannot know. This structural position—looking back at foundational narratives from a vantage point of their consequences—embodies the project's critique: that we can now see how these stories were weaponized because we inherit their effects.
 
