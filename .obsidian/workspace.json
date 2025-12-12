@@ -215,14 +215,14 @@
             "id": "e61544f6434fa9b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Summary.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Summary.md",
+                "bFile": "Summary.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Summary"
+              "icon": "diff",
+              "title": "Diff: Summary"
             }
           }
         ],
@@ -309,7 +309,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +318,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summary"
+              "title": "Backlinks"
             }
           },
           {
@@ -328,12 +327,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Summary"
+              "title": "Outgoing links"
             }
           },
           {
@@ -410,6 +408,7 @@
   },
   "active": "e61544f6434fa9b5",
   "lastOpenFiles": [
+    "Summary.md",
     "Todo.md",
     "Characters/Samyaza.md",
     "Untitled.base",
@@ -424,7 +423,6 @@
     "Research/Creating Awan's Voice - Hebrew Linguistic Analysis.md",
     "Research/Samyaza as Witness - Injustice in the San Fernando Valley.md",
     "Research/When the critical ideas about Genesis entered Western thought.md",
-    "Summary.md",
     "current_memory.md",
     "Research/The Watchers.md",
     "Traumas/Exile by God.md",

@@ -10,6 +10,12 @@
 - **Reject moral overlays from later sources** - especially 1 Enoch's demonization of Watchers
 - **First principles only** - no conventional wisdom, no assumptions about how we think today; only textual evidence and scientific knowledge about biology, climate, geography
 
+### Critical Framework Elements
+
+- **Adam and Eve are proto-humans, not human** - created fully formed with no childhood, no attachment models, no parenting instinct. The CHILDREN (Cain, Abel, Awan, Aclima) are the first beings with actual human psychology. The "first generation gap" is actually a species gap. See [[Core Novel Decisions#11. ADAM AND EVE AS PROTO-HUMANS]].
+
+- **Cain didn't know death was permanent** - struck Abel in jealousy, tried to wake him for weeks/months, slowly realized it was irreversible. God never explained death, never commanded "don't kill," then punished him for violating unstated rules. First death was manslaughter through divine negligence, not murder. See [[Core Novel Decisions#5. CAIN'S UNDERSTANDING OF DEATH]].
+
 ---
 
 ## The Novel's Frame (Settled)
@@ -51,40 +57,52 @@
 - Experienced every cycle of violence against marginalized people in Valley history
 - His immortality traps him inside history, doesn't elevate him above it
 
+See [[Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics]] for detailed psychological profile and narrative implications.
+
 ---
 
 ## Samyaza's Three Memory Types (Settled)
 
 1. **Pre-trauma firsthand memories** - vivid sensory detail of time with Awan and later with Tongva/Tataviam; high precision on physical details, low understanding of emotional/social meaning
 
-2. **Traumatic firsthand memories** - Spanish colonization, ongoing marginalization; fragmented, difficult to access
+2. **Reconstructed knowledge of the flood** - learned secondhand from hostile texts centuries later through Spanish missions; NOT witnessed directly; obsessive textual analysis across translations
 
 3. **Awan's stories (secondhand)** - her exact words preserved, but meanings uncertain; frozen and uncorrectable; triple-layered (her original telling, his hearing, his grief)
 
-These interrupt each other. The fragmentation IS the structure.
+These interrupt each other. The fragmentation IS the structure. See [[Research/Samyaza's Story Types - How Memory Architecture Differs]] for detailed narrative implementation.
 
 ---
 
 ## Awan (Settled)
 
 - Adam and Eve's first daughter (from Book of Jubilees)
+- **First actual human consciousness** - born, not created; experienced childhood, growth, empirical learning
 - True architect of early civilization - the one written out of canonical scripture
 - Represents an ideal state: communal, inquisitive, neurodiverse, comfortable with sex and body, free of shame, kind, generous
 - Embodies organic morality that might emerge when everyone is siblings (Westermarck considerations)
-- INTJ in MBTI terms
-- Lived ~900 years (antediluvian lifespan); puberty ~90, menopause ~450
-- Was alive when Watchers descended (she'd be 376-544 years old)
-- Samyaza meets her when she's past childbearing age (post-450)
+- INTJ in MBTI terms; intuitive pattern-recognizer (observation-based, not formally rigorous)
+
+### Life Arc
+- Lived ~900 years; puberty ~90, menopause ~450
+- **Immediately exiled with Cain after Abel's murder** - witnessed Mark of Cain, never reconnected with birth family (Adam, Eve, Aclima)
+- **Marriage to Cain is functional siblinghood, not romantic** - comfortable partnership with low emotional demands; she liked Abel better; Cain intellectually limited while Awan is the genius
+- **50-80+ children over 360-year fertile window** - spent ~300 years pregnant/nursing/recovering; Enoch just the firstborn (the one Genesis names); managed childrearing AND city-building simultaneously
+- **Met Samyaza at menopause (~450 years old)** - finally free from biological service; he's the first non-relative she ever met, making their relationship significant; 400+ years together before her death (~900 years old)
+
+See [[Core Novel Decisions]] for detailed timeline mathematics, reproductive biology, and relationship structures.
 
 ---
 
 ## Antediluvian Lifespan Framework (Settled)
 
 - Typical lifespan: ~900 years
-- Puberty: ~90 years
-- Menopause: ~450 years
+- Puberty: ~90 years (~10% of lifespan)
+- Menopause: ~450 years (~50% of lifespan)
+- Fertile window: ~360 years
 - Development scales proportionally
 - NO normalized timeline (don't convert to modern 75-year equivalents)
+
+See [[Core Novel Decisions#3. REPRODUCTIVE BIOLOGY ACROSS 900-YEAR LIFESPANS]] for detailed mathematics and textual evidence.
 
 ---
 
@@ -149,10 +167,22 @@ Samyaza present throughout as participant-observer - not shaping events, shaped 
 - When Rick shares information, verify against project files rather than just engaging conversationally
 
 ---
-## Key Info
 
-[[Creating Awan's Voice - Hebrew Linguistic Analysis]]: Using differences between biblical and modern hebrew to create a distinctive voice for Antediluvian era characters.
+## Key Documents
+
+### Core Framework
+- [[Core Novel Decisions]] - Detailed decisions on timeline, biology, relationships, character psychology (11 major sections)
+- [[Creating Awan's Voice - Hebrew Linguistic Analysis]] - Using biblical vs modern Hebrew differences to create distinctive antediluvian voices
+
+### Character & Structure
+- [[Research/Samyaza's Story Types - How Memory Architecture Differs]] - Three memory types and how they interrupt each other structurally
+- [[Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics]] - How autism and trauma shape his narration
+- [[Research/Watchers and Nephilim]] - Samyaza's relationship with Awan, imprisonment timing, Watchers as alternative to divine control
+
+### Research & Background
+- [[Research/Theological Perspectives on Divine Judgment]] - God as narcissist, gaslighting, empathy development
+- [[Todo]] - Project cleanup priorities and organizational tasks
 
 ---
 
-**Last Updated:** [Date of your edit]
+**Last Updated:** December 12, 2025
