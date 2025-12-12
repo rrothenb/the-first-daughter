@@ -1,27 +1,155 @@
-**Purpose & context**
+# The Book of Awan - Startup Summary
 
-Rick is developing "The Book of Awan," a biblical fiction novel that reinterprets Genesis as a cautionary tale about divine narcissism rather than moral instruction. The project centers on Awan (Adam and Eve's first daughter) as the true architect of early civilization and Samyaza (leader of the fallen Watchers) as a frame narrator writing from contemporary isolation in the San Fernando Valley. Rick's central thesis argues that Genesis was meant as a cautionary tale about narcissistic divinity, but successive reinterpretations by those seeking power have weaponized it into a tool of oppression throughout history.
+**Purpose:** Read this file at the start of every conversation about this project before responding to anything.
 
-The novel employs a sophisticated multi-layered structure. Samyaza's contemporary frame narrative takes place in present-day San Fernando Valley where he lives marginalized, mistaken for indigenous, experiencing ongoing consequences of how his story was weaponized. His attempts to write the Book of Awan fragment across three types of memory that interrupt each other: pre-trauma firsthand memories of peaceful times with Awan and later with Valley indigenous peoples, traumatic firsthand memories of Spanish colonization and ongoing marginalization that remain fragmented and difficult to access, and Awan's own stories that he preserves obsessively as secondhand memories. Valley vignettes connect ancient events to San Fernando Valley history spanning from indigenous peoples through contemporary times. Critically, Samyaza's metacommentary about how stories work is integrated directly into his narrative voice, not presented as separate Talmudic-style commentary sections.
+---
 
-Rick approaches the project with rigorous first-principles methodology, relying solely on textual evidence from Genesis (treating it as neutral-toned) while rejecting moral overlays from later sources like 1 Enoch. He applies modern scientific knowledge about human psychology, neurobiology, and ancient Mesopotamian geography to ground supernatural elements in authentic frameworks. The novel functions as both standalone fiction and teaching tool, explicitly instructing readers about narrative weaponization while implicitly demonstrating trauma effects through its fragmented structure.
+## Core Premise (Settled)
 
-Key collaborators in Rick's research include extensive engagement with Jewish religious texts through Sefaria, biblical scholarship on Genesis composition and interpretation history, trauma research for character psychology, and historical analysis of the San Fernando Valley from 2000 BCE through present day. Rick has developed custom analytical frameworks including an 8-dimensional biblical personality system and detailed character development using Dramatica theory's 64 elements.
+- **Genesis is literal** - events happened as described, but the moral framing is propaganda
+- **Genesis was a cautionary tale** - later weaponized by those seeking power
+- **God is a narcissist** - values adulation above all else; this is not metaphor
+- **Reject moral overlays from later sources** - especially 1 Enoch's demonization of Watchers
+- **First principles only** - no conventional wisdom, no assumptions about how we think today; only textual evidence and scientific knowledge about biology, climate, geography
 
-**Approach & patterns**
+---
 
-Rick employs systematic engineering methodology to novel construction, treating narrative structure as information architecture with clear dependencies and logical progression. He prefers prescriptive rather than exploratory approaches, building comprehensive frameworks before proceeding to execution phases. His research process involves creating extensive checklists, detailed character analyses using multiple theoretical systems, and rigorous documentation in Obsidian with GitHub version control.
+## The Novel's Frame (Settled)
 
-Rick's analytical approach distinguishes between active involvement and passive inquiry, avoiding assumptions about expertise or roles based on questions alone. He consistently applies first-principles thinking, challenging conventional interpretations and demanding textual evidence over speculation. When encountering contradictions or gaps, he systematically identifies highest-risk elements before proceeding, following spiral development methodology.
+- **Narrator:** Samyaza, leader of the Watchers
+- **His project:** Writing "The Book of Awan" to set the record straight
+- **Actually about:** His attempts to process trauma by writing, and his learning about how stories work
+- **Working title:** "The Book of Awan" (like Tenacious D's "Tribute" - not the thing itself, but an attempt at the thing)
+- **No Talmudic-style commentary sections** - metacommentary about stories is integrated into Samyaza's voice, not separated out
 
-His collaborative style with Claude emphasizes informal, direct workshop dynamics rather than performative interactions. Rick values honest assessment over encouragement, providing direct feedback when recommendations miss the mark and preferring concrete structural examples over abstract theory. He demonstrates self-awareness about research patterns while asserting autonomy over his creative process.
+---
 
-Rick organizes complex information through dependency mapping, treating narrative sequencing as both construction challenges (order of building steps) and presentation challenges (pedagogical sequencing of evidence). He consistently connects theoretical frameworks to practical narrative applications, ensuring analytical insights serve story development rather than becoming academic exercises.
+## Samyaza (Settled)
 
-**Tools & resources**
+### Identity
+- INTP, high-functioning autistic (undiagnosed, pre-modern)
+- Brilliant but unable/unwilling to manipulate people to advance
+- Mesopotamian appearance - olive/brown skin, dark hair, Semitic features
+- Racially ambiguous in California: readable as indigenous, Mexican, Armenian, Middle Eastern depending on era
 
-Rick's primary infrastructure centers on Obsidian for note-taking and project organization, with GitHub integration for version control and collaboration (repository: rrothenb/the-first-daughter). He uses Sefaria.org extensively for Jewish religious text research, accessing primary sources and commentaries for textual analysis. His research methodology incorporates comprehensive web searches for historical, scientific, and scholarly sources, particularly focusing on trauma research, biblical scholarship, and San Fernando Valley history.
+### Present Circumstances
+- Lives in San Fernando Valley, has for millennia
+- Marginalized, part of underclass, essentially a person of color
+- Undocumented - literally cannot have documentation; doesn't fit any identity system
+- Poor - no wealth accumulation, no social climbing
+- Nameless, faceless, forgettable despite brilliance
+- Currently readable as Latino; lives in East Valley with working-class immigrants
 
-Key reference works include extensive biblical and apocryphal texts (Genesis, 1 Enoch, Book of Jubilees, Talmudic sources), scientific papers on Mesopotamian geography and morphodynamics, trauma research frameworks from contemporary psychology, and historical analyses of textual weaponization and interpretation history. Rick has developed custom analytical tools including his 8-dimensional biblical personality system and detailed applications of Dramatica theory's 64 character elements.
+### Critical: He Did NOT Witness the Flood
+- Imprisoned before or during flood - bound in darkness, unable to see or help
+- Learned what happened **centuries later** through Spanish mission system
+- Sat in mission chapels built by forced labor and heard Genesis read aloud
+- Learned everyone he loved was "wicked" and deserved to drown
+- This shapes everything: his memories of Awan are vivid firsthand; his knowledge of her death is reconstructed from hostile texts
 
-His technical approach leverages systematic research checklists covering over 100 topics, comprehensive timelines connecting ancient events to modern contexts, and structured documentation systems that support both creative development and scholarly rigor. Rick maintains clear organizational boundaries between active project materials, archived content, and materials under consideration (especially the "To Fix, Reword, or Reject" directory which should be ignored unless specifically referenced), enabling systematic progression from research through planning to execution phases.
+### His Trauma
+- **Primary trauma:** Spanish colonization and ongoing marginalization (NOT the flood/imprisonment directly)
+- Swept into mission system, forced labor, witnessed cultural genocide of indigenous peoples
+- Experienced every cycle of violence against marginalized people in Valley history
+- His immortality traps him inside history, doesn't elevate him above it
+
+---
+
+## Samyaza's Three Memory Types (Settled)
+
+1. **Pre-trauma firsthand memories** - vivid sensory detail of time with Awan and later with Tongva/Tataviam; high precision on physical details, low understanding of emotional/social meaning
+
+2. **Traumatic firsthand memories** - Spanish colonization, ongoing marginalization; fragmented, difficult to access
+
+3. **Awan's stories (secondhand)** - her exact words preserved, but meanings uncertain; frozen and uncorrectable; triple-layered (her original telling, his hearing, his grief)
+
+These interrupt each other. The fragmentation IS the structure.
+
+---
+
+## Awan (Settled)
+
+- Adam and Eve's first daughter (from Book of Jubilees)
+- True architect of early civilization - the one written out of canonical scripture
+- Represents an ideal state: communal, inquisitive, neurodiverse, comfortable with sex and body, free of shame, kind, generous
+- Embodies organic morality that might emerge when everyone is siblings (Westermarck considerations)
+- INTJ in MBTI terms
+- Lived ~900 years (antediluvian lifespan); puberty ~90, menopause ~450
+- Was alive when Watchers descended (she'd be 376-544 years old)
+- Samyaza meets her when she's past childbearing age (post-450)
+
+---
+
+## Antediluvian Lifespan Framework (Settled)
+
+- Typical lifespan: ~900 years
+- Puberty: ~90 years
+- Menopause: ~450 years
+- Development scales proportionally
+- NO normalized timeline (don't convert to modern 75-year equivalents)
+
+---
+
+## Opening (Current Direction)
+
+- Novel opens with Samyaza reflecting on "bereshit" as a first word
+- What it means, how elegant it is, why he can't top it
+- Establishes him as literary, self-aware narrator thinking about HOW to tell a story
+- First chapter possibly titled "Bereshit"
+- Hebrew centrality: the book will teach readers about Hebrew and translation choices
+
+---
+
+## Themes to Explore
+
+Neurodiversity, modern trauma theory, natural morality, communism/communalism, writing, how Genesis was weaponized over time, rise of western civilization, colonialism, communication, San Fernando Valley, Spanish mission system, autistic masking, postmodernism, literary theory, software engineering, rise of movie industry, Jesus' rejection of Old Testament and later undoing by others, capitalism, knowledge, progress, technology, learning, the Watchers, Westermarck effect, neuroscience, translation, Nietzsche, humor
+
+---
+
+## Valley Vignettes (Structural Element)
+
+Connect ancient events to San Fernando Valley history:
+- Pre-contact Tongva/Tataviam
+- Mission system (1797-1834)
+- Land Claims Act dispossession
+- Water heist / Owens Valley (Chinatown)
+- Japanese internment
+- Postwar white flight / redlining
+- Rodney King / 1992 riots
+- Present-day ICE enforcement, housing crisis, gentrification
+
+Samyaza present throughout as participant-observer - not shaping events, shaped by same forces that shape everyone on margins.
+
+---
+
+## What's NOT Settled / Still In Flux
+
+- Exact structure and pacing of how education about story mechanics gets distributed
+- Specific scenes and events to dramatize
+- How much to show vs. tell regarding literary theory
+- Vault organization (see Todo.md for cleanup priorities)
+- Whether title should have quotes around it ("The Book of Awan")
+- Whether to use Hebrew title with English subtitle
+
+---
+
+## Resources
+
+- **Primary texts:** Sefaria.org for Jewish religious texts including apocrypha
+- **Project files:** Obsidian vault synced to GitHub (rrothenb/the-first-daughter)
+- **Ignore:** Anything in "To Fix, Reword, or Reject" directory unless specifically asked
+
+---
+
+## Working With Rick
+
+- Informal, direct, collaborative workshop tone
+- Honest assessment over encouragement
+- Concrete examples over abstract theory
+- Don't ask follow-up questions just to keep things going
+- Search project files before responding to project-related queries
+- When Rick shares information, verify against project files rather than just engaging conversationally
+
+---
+
+**Last Updated:** [Date of your edit]
