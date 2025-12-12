@@ -1,5 +1,3 @@
-# The Book of Awan - Startup Summary
-
 **Purpose:** Read this file at the start of every conversation about this project before responding to anything.
 
 ---
@@ -149,6 +147,11 @@ Samyaza present throughout as participant-observer - not shaping events, shaped 
 - Don't ask follow-up questions just to keep things going
 - Search project files before responding to project-related queries
 - When Rick shares information, verify against project files rather than just engaging conversationally
+
+---
+## Key Info
+
+[[Creating Awan's Voice - Hebrew Linguistic Analysis]]: Using differences between biblical and modern hebrew to create a distinctive voice for Antediluvian era characters.
 
 ---
 
