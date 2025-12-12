@@ -25,6 +25,7 @@ The centuries of trauma calcified whatever that original connection was (or wasn
 - He doesn't need a "good reason" for his obsession. Obsession doesn't require justification proportional to its intensity.
 - Room for moments of painful near-self-awareness. Flickers where he almost sees it. He pulls back from those edges.
 - His voice carries the damage—affects how much the reader should trust his framing versus his facts.
+- He may believe that Awan loved him and later, when he learns about the Westermarck effect, might have a moment of questioning that.
 
 ## The Larger Point
 
