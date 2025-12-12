@@ -179,12 +179,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samyaza as Unreliable Narrator.md",
+                "file": "Bereshit - Analysis for Novel Opening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samyaza as Unreliable Narrator"
+              "title": "Bereshit - Analysis for Novel Opening"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Samyaza as Unreliable Narrator.md",
+                "file": "Bereshit - Analysis for Novel Opening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Samyaza as Unreliable Narrator"
+              "title": "Backlinks for Bereshit - Analysis for Novel Opening"
             }
           },
           {
@@ -290,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Samyaza as Unreliable Narrator.md",
+                "file": "Bereshit - Analysis for Novel Opening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Samyaza as Unreliable Narrator"
+              "title": "Outgoing links from Bereshit - Analysis for Novel Opening"
             }
           },
           {
@@ -373,6 +373,7 @@
   "active": "f473bc0d08462a2d",
   "lastOpenFiles": [
     "Samyaza as Unreliable Narrator.md",
+    "Bereshit - Analysis for Novel Opening.md",
     "Traumas/Accidental Death.md",
     "Summary.md",
     "Todo.md",
@@ -399,7 +400,6 @@
     "Core Novel Decisions.md",
     "To Fix, Reword, or Reject/Core Decisions.md",
     "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
-    "Research/Trauma across millennia - A psychological framework for the wounded immortal.md",
     "Concepts",
     "Traumas",
     "Events",
