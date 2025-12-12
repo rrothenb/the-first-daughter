@@ -179,12 +179,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bereshit - Analysis for Novel Opening.md",
+                "file": "Core Novel Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bereshit - Analysis for Novel Opening"
+              "title": "Core Novel Decisions"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bereshit - Analysis for Novel Opening.md",
+                "file": "Core Novel Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bereshit - Analysis for Novel Opening"
+              "title": "Backlinks for Core Novel Decisions"
             }
           },
           {
@@ -290,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bereshit - Analysis for Novel Opening.md",
+                "file": "Core Novel Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bereshit - Analysis for Novel Opening"
+              "title": "Outgoing links from Core Novel Decisions"
             }
           },
           {
@@ -372,8 +372,8 @@
   },
   "active": "f473bc0d08462a2d",
   "lastOpenFiles": [
-    "Samyaza as Unreliable Narrator.md",
     "Bereshit - Analysis for Novel Opening.md",
+    "Samyaza as Unreliable Narrator.md",
     "Traumas/Accidental Death.md",
     "Summary.md",
     "Todo.md",

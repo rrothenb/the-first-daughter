@@ -320,6 +320,20 @@
 
 ---
 
+## 12. Trust
+
+**Decision:** Genesis is a reliable record of events. God is an unreliable narrator within those events.
+ 
+ The writer of Genesis faithfully recorded what happened and what was said. But God's stated motivations, explanations, and framings are subject to the same suspicion as any narcissist's self-justifications. The serpent's track record is better than God's.
+
+---
+
+## 13. The Mark
+
+**Decision**: The mark may have been more about punishment than protection. If we assume god is a narcissist and nobody had even considered the possibility that you could actually kill someone and that every person alive was a relative, it seems unlikely that Cain would have actually needed that and it seems more fitting that this is another rule that god didn't bother sharing with anyone and wanted everyone to know Cain had done bad when nobody else felt that way.
+
+---
+
 ## NARRATIVE IMPLICATIONS
 
 **These decisions establish:**
@@ -351,7 +365,3 @@
 - Relationship with Nephilim (Samyaza's children)
 - What triggers Samyaza to write the Book of Awan millennia later
 
----
-
-**Last Updated:** November 2, 2025  
-**Status:** Core framework established, ready for scene development
