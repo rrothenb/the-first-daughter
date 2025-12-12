@@ -177,10 +177,14 @@
             "id": "f473bc0d08462a2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Samyaza as Unreliable Narrator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Samyaza as Unreliable Narrator"
             }
           }
         ],
@@ -267,6 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Samyaza as Unreliable Narrator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Samyaza as Unreliable Narrator"
             }
           },
           {
@@ -285,11 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Samyaza as Unreliable Narrator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Samyaza as Unreliable Narrator"
             }
           },
           {
@@ -366,6 +372,7 @@
   },
   "active": "f473bc0d08462a2d",
   "lastOpenFiles": [
+    "Samyaza as Unreliable Narrator.md",
     "Traumas/Accidental Death.md",
     "Summary.md",
     "Todo.md",
@@ -393,7 +400,6 @@
     "To Fix, Reword, or Reject/Core Decisions.md",
     "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
     "Research/Trauma across millennia - A psychological framework for the wounded immortal.md",
-    "Research/Theological Perspectives on Divine Judgment.md",
     "Concepts",
     "Traumas",
     "Events",
