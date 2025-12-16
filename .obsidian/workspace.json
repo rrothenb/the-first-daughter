@@ -179,12 +179,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Sex and Social Structure in the Early Antediluvian World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Sex and Social Structure in the Early Antediluvian World"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Sex and Social Structure in the Early Antediluvian World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Sex and Social Structure in the Early Antediluvian World"
             }
           },
           {
@@ -290,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Sex and Social Structure in the Early Antediluvian World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Sex and Social Structure in the Early Antediluvian World"
             }
           },
           {
@@ -372,12 +372,18 @@
   },
   "active": "f473bc0d08462a2d",
   "lastOpenFiles": [
+    "Hebrew Wordplay and Trauma-Driven Narrative Structure.md",
+    "Samyaza as Unreliable Narrator.md",
+    "Samyaza Topic Seeds.md",
+    "Samyaza's Cognitive Profile and Teaching Domain.md",
+    "Trauma-Driven Topic Switching.md",
+    "Todo.md",
+    "Sex and Social Structure in the Early Antediluvian World.md",
+    "Neurodiversity Pivot Decision.md",
     "Core Novel Decisions.md",
     "Bereshit - Analysis for Novel Opening.md",
-    "Samyaza as Unreliable Narrator.md",
     "Traumas/Accidental Death.md",
     "Summary.md",
-    "Todo.md",
     "Characters/Samyaza.md",
     "Untitled.base",
     "Untitled.canvas",
@@ -394,12 +400,6 @@
     "current_memory.md",
     "Research/The Watchers.md",
     "Traumas/Exile by God.md",
-    "To Fix, Reword, or Reject/The Marriage Switch.md",
-    "To Fix, Reword, or Reject/The Broken Promise.md",
-    "To Fix, Reword, or Reject/Summary.md",
-    "To Fix, Reword, or Reject/Nutshell.md",
-    "To Fix, Reword, or Reject/Core Decisions.md",
-    "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
     "Concepts",
     "Traumas",
     "Events",
