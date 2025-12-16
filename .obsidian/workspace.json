@@ -179,12 +179,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Novel Decisions.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Novel Decisions"
+              "title": "Todo"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Novel Decisions.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Core Novel Decisions"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -290,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Novel Decisions.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Core Novel Decisions"
+              "title": "Outgoing links from Todo"
             }
           },
           {
@@ -372,6 +372,7 @@
   },
   "active": "f473bc0d08462a2d",
   "lastOpenFiles": [
+    "Core Novel Decisions.md",
     "Bereshit - Analysis for Novel Opening.md",
     "Samyaza as Unreliable Narrator.md",
     "Traumas/Accidental Death.md",
@@ -397,7 +398,6 @@
     "To Fix, Reword, or Reject/The Broken Promise.md",
     "To Fix, Reword, or Reject/Summary.md",
     "To Fix, Reword, or Reject/Nutshell.md",
-    "Core Novel Decisions.md",
     "To Fix, Reword, or Reject/Core Decisions.md",
     "To Fix, Reword, or Reject/Comprehensive Project Status Report.md",
     "Concepts",

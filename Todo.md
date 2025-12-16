@@ -1,3 +1,15 @@
+Figure out the right granularity
+- Would it make sense to record assertions?
+	- Examples
+		- Adam & Eve were shitty parents
+		- Awan and siblings didn't have a big issue with nudity
+			- Depends on knowing the above issue
+	- What would be the upshot of doing this?
+		- A shit ton of notes and links
+		- More opportunities to jump to related topics
+		- More clarity on what ought to be covered somewhere
+	- Easier to make sure assertions are referenced by Summary or could rename to Assertions
+
 Review and fix every Research item
 
 Any part of a research item that is actually a specific choice for the book, move to top or think of new directory
