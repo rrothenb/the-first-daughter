@@ -1,3 +1,10 @@
+I have so much work to do
+- I have to figure out the granularity issue for all kinds of things
+- I’ve got to clean up everything in there
+- I think I’ve got to separate true research stuff from invented assertions 
+- I’ve got to figure out a way to enjoy this process enough so that I actually do it
+- I need to figure out a way to get to a point where I want to write
+
 Figure out the right granularity
 - Would it make sense to record assertions?
 	- Examples
@@ -9,6 +16,9 @@ Figure out the right granularity
 		- More opportunities to jump to related topics
 		- More clarity on what ought to be covered somewhere
 	- Easier to make sure assertions are referenced by Summary or could rename to Assertions
+- It might work well for me if no note was more than a page in length 
+
+Figure out the strategy for picking next topic, which will help me to understand the categories of notes
 
 Review and fix every Research item
 
