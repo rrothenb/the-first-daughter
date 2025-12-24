@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/The Lowest of the Low - San Fernando Valley's Most Despised Through Thirteen Eras.md",
+                "file": "Research/Big Five Character Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -218,7 +218,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Lowest of the Low - San Fernando Valley's Most Despised Through Thirteen Eras"
+              "title": "Big Five Character Analysis"
             }
           }
         ],
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/The Lowest of the Low - San Fernando Valley's Most Despised Through Thirteen Eras.md",
+                "file": "Research/Big Five Character Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Lowest of the Low - San Fernando Valley's Most Despised Through Thirteen Eras"
+              "title": "Backlinks for Big Five Character Analysis"
             }
           },
           {
@@ -404,10 +404,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abcebba6b6a14e01",
+  "active": "3556e278401f0731",
   "lastOpenFiles": [
-    "Research/Survival Infrastructure for the Marginalized in the San Fernando Valley.md",
     "Research/The Lowest of the Low - San Fernando Valley's Most Despised Through Thirteen Eras.md",
+    "Research/Big Five Character Analysis.md",
+    "Research/Survival Infrastructure for the Marginalized in the San Fernando Valley.md",
     "Summary.md",
     "Research/Neurological Basis for Narrative Coupling.md",
     "Research/Kahneman and the Manipulation Architecture.md",
@@ -433,7 +434,6 @@
     "Research/Cain and Abel's First Murder Mystery.md",
     "Research/Biblical Rules in Early Human History.md",
     "Research/The architecture of narrative - How stories shape and weaponize human reality.md",
-    "Research/Samyaza's Narrative Voice - Autism + CPTSD Characteristics.md",
     "Concepts",
     "Traumas",
     "Events",
