@@ -153,43 +153,7 @@ The Apkallu were **human sages** in Mesopotamian tradition—wise teachers. The 
 
 ---
 
-## Part 4: The Inversion That Fits the Novel's Thesis
-
-### What Actually Happened (for narrative purposes)
-
-Awan developed all knowledge attributed to the Watchers through:
-- Observation
-- Experimentation
-- Sheer accumulated time (450+ years before Watchers arrive)
-
-### The 1 Enoch authors, writing centuries later:
-
-1. Couldn't imagine a *woman* being the source of civilization's foundations
-2. Attributed her achievements to male supernatural beings
-3. Condemned knowledge as corruption
-4. Erased Awan entirely from the narrative
-
-The "Watchers taught forbidden knowledge" narrative is itself the weaponization—taking human achievement (specifically *her* achievement) and reframing it as supernatural corruption.
-
-### An Alternative Reading
-
-The Watchers came down knowing nothing useful about terrestrial existence. They're immortal; they don't need to eat, shelter, or heal. What would they actually know about root-cuttings or agriculture?
-
-**Possible inversion:** The Watchers came down ignorant, and *Awan taught them*. The relationship with Samyaza becomes intellectual exchange where she's the expert on material reality and he has... theological perspective? A view from outside the system?
-
-### Timeline Support
-
-Per established decisions:
-- Watchers arrive years 460-622
-- Awan meets Samyaza around year 460, age ~450-460
-- She's already post-menopausal, has seen 4 generations of descendants
-- She's witnessed entire development of Cain's civilization
-
-The journey to the coast and founding of Enoch happens entirely *before* Watcher contact. They didn't guide or influence the journey. Awan builds civilization independently, through her own intelligence and observation, without divine or angelic assistance.
-
----
-
-## Part 5: Awan's Children and Population by Watcher Arrival
+## Part 4: Awan's Children and Population by Watcher Arrival
 
 ### Reproductive Timeline (per established decisions)
 
@@ -262,7 +226,7 @@ The Watchers aren't arriving to a small family settlement. They're arriving to a
 
 ---
 
-## Part 6: Causes of Death in Antediluvian Texts
+## Part 5: Causes of Death in Antediluvian Texts
 
 ### What Genesis Actually Says
 

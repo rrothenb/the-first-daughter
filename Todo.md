@@ -1,3 +1,18 @@
+Consider drawing a big ass chart with color coding
+
+Consider building a chronology
+- Perhaps separate chronologies for Samyaza and Awan
+- Include Samyaza’s “birth” and the story of the watchers
+- Time didn’t start until the 4th day
+- Include every time Samyaza learned something 
+- Every subject he wants to talk about comes from an event when he learned something or it’s something he was born with 
+- It seems useful to know the chronology even if it’s not presented that way 
+
+I need to read and reread all of the research I currently have
+- I need to remove anything no longer relevant
+- I need to immerse myself in the relevant information I do have, particularly where I’m not that familiar with it
+- I need to see what new questions that leads me to
+
 I have so much work to do
 - I have to figure out the granularity issue for all kinds of things
 - I’ve got to clean up everything in there

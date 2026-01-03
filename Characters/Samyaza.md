@@ -34,11 +34,8 @@ The Watchers descend during Awan's lifetime, allowing for the Samyaza-Awan relat
 
 ## The Watchers
 
-[[todo]]: too fucking preachy and judgmental.  Maybe only need a link to somewhere else where the watchers are described
-
 From 1 Enoch, the sons of God/Watchers were:
 - Heavenly beings (angels)
-- Who saw human women and desired them
 - 200 of them descended to Mount Hermon
 - Led by Samyaza
 - Took human wives
@@ -109,10 +106,6 @@ What the texts call "forbidden knowledge" can be understood as:
 - Practical skills for survival and advancement
 - Scientific knowledge God wanted to withhold
 - Liberation from divine control through understanding
-
-**Alternative Reading:** The Watchers came down knowing nothing useful about terrestrial existence. They're immortal; they don't need to eat, shelter, or heal. What would they actually know about root-cuttings or agriculture? 
-
-Possible inversion: The Watchers came down ignorant, and *Awan taught them*. The relationship with Samyaza becomes intellectual exchange where she's the expert on material reality and he has theological perspective—a view from outside the system.
 
 ---
 
