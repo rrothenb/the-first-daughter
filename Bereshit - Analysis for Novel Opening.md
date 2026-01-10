@@ -50,7 +50,3 @@ Samyaza reflects on what a great first word "bereshit" is to start a book. What 
 - He might appreciate "bereshit" like a perfectly executed magic trick - the audacity of it
 - Could see it as the most successful "once upon a time" ever written
 - A fairy tale that convinced people it wasn't one
-
----
-
-*The perfect opening is the enemy of the actual opening.*
