@@ -1,3 +1,19 @@
+Maybe I’m ready for a less engineery phase of development
+- Make lists of things I want to talk about and things I need to talk about and work out from those
+	- not necessarily less engineery 
+	- This does feel important
+	- I also may need reasons for why I need to talk about it
+		- why in gods name would I want to do that?
+	- I kind of maybe need some sense as to how much I need to make a book
+		- there’s so much I want to talk about, I doubt if I’ll have trouble finding stuff
+- Will my big ass paper tablet fit in my suitcase?
+	- is that really going to be helpful?
+- I do need to do something since I seem to be stuck
+	- My perceived need to cleanup is both possibly unnecessary and definitely painful so I should try to find something else to do
+	- Even though the notes aren’t perfect, I still have a decent idea in my head about what I want to do
+	- It might be a good exercise to try and do more stuff myself, rather than depending on Claude for everything
+- I may be ready to lay out the actual sjuzhet
+
 Consider drawing a big ass chart with color coding
 
 Consider building a chronology
