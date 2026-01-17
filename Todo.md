@@ -1,3 +1,7 @@
+I probably want to cover some things that aren't literally called for, like maybe incidents in Awan's life in regards to Abel, Cain, Adam, Eve, her children, her other siblings, her niblings, her nephilim offspring.  Some of these will be needed to elaborate on other ideas I want to explore, like their natural morality.  So I think these sorts of things don't get topics created for them, at least no initially, but maybe never
+
+I need something minimal to do that will help me proceed. I’m thinking a folder called something like cover or include or topics or other that includes a note for each thing I want to include. Sort of chapters. Start by just listing everything I want to include. Like an outline. I like working that way. 
+
 Maybe I’m ready for a less engineery phase of development
 - Make lists of things I want to talk about and things I need to talk about and work out from those
 	- not necessarily less engineery 

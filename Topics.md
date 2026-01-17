@@ -1,0 +1,20 @@
+- Bereshit - the first word
+- the Westermarck effect 
+- Coming to earth
+- Meeting Awan
+- Hearing Hebrew in the valley
+- Tidal irrigation
+- His children 
+- His name
+- His upbringing
+- Meeting the first humans in America
+- Living among the tongva
+- First murder as told by Awan
+- Eden memories of Awan
+- Banishment and mark on Cain
+- Awan’s sex life
+- Building a city
+- Private property in Awan’s world
+- His enslavement
+- First hearing story of Adam and Eve 
+- First hearing story of Jesus 
