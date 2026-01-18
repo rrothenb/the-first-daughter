@@ -18,3 +18,8 @@
 - His enslavement
 - First hearing story of Adam and Eve 
 - First hearing story of Jesus 
+- Natural morality with no rules
+- Plural gods
+- Gods narcissism 
+- Genesis as a cautionary tale like other god stories
+- English is not my first language.  It's from my 4th - 6th, depending on how one wishes to count such things

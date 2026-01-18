@@ -205,8 +205,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -226,6 +226,7 @@
   },
   "active": "7505b948bcce1e82",
   "lastOpenFiles": [
+    "Summary.md",
     "Todo.md",
     "Topics.md",
     "Sex and Social Structure in the Early Antediluvian World.md",
@@ -239,7 +240,6 @@
     "Research/The architecture of narrative - How stories shape and weaponize human reality.md",
     "Research/When the critical ideas about Genesis entered Western thought.md",
     "Research/Samyaza as Witness - Injustice in the San Fernando Valley.md",
-    "Summary.md",
     "Research/Biblical Rules in Early Human History.md",
     "Characters/Adam.md",
     "Characters/Characters.md",

@@ -20,6 +20,7 @@
 - **Novel's dual function:** Standalone fiction AND explicit teaching tool about how stories become weapons through successive reinterpretation
 - **Working title:** "The Book of Awan" (like Tenacious D's "Tribute" - not the thing itself, but an attempt at the thing)
 - **No Talmudic-style commentary sections** - metacommentary about stories is integrated into Samyaza's voice, not separated out
+- While Samyaza’s trauma from being enslaved by the Spanish missionaries may be a subconscious reason for his desire to set things straight, consciously he just focuses on his affection for Awan as why he thinks he’s doing it. And not just the missionaries but much of what happened to him since.  
 
 ---
 
