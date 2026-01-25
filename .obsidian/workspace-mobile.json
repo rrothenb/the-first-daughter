@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Topics"
+            }
+          },
+          {
+            "id": "3592cc4e49adccff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Todo.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Todo"
-            }
-          },
-          {
-            "id": "7505b948bcce1e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Topics"
             }
           }
         ],
@@ -224,11 +224,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7505b948bcce1e82",
+  "active": "3592cc4e49adccff",
   "lastOpenFiles": [
-    "Summary.md",
-    "Todo.md",
     "Topics.md",
+    "Todo.md",
+    "Summary.md",
     "Sex and Social Structure in the Early Antediluvian World.md",
     "Samyaza's Cognitive Profile and Teaching Domain.md",
     "Neurodiversity Pivot Decision.md",

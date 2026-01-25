@@ -79,8 +79,7 @@
               "title": "Topics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,10 +261,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "642d3a95cc8977fd",
+  "active": "3556e278401f0731",
   "lastOpenFiles": [
-    "Summary.md",
     "Topics.md",
+    "Summary.md",
     "Todo.md",
     "Research/Kahneman and the Manipulation Architecture.md",
     "Untitled.md",

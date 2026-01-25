@@ -1,4 +1,20 @@
+Consolidate various topics list into one. Make sure have all topics needed to explain how his enslavement happened including conditions prior to mission but after first Spanish explorers, forces on missionaries, name of book describing real nature of missions, start building links between topics.  Color code essential and optional topics. 
+
+Is the Bible propaganda?  Should distinguish between tools of impactful narrative that the church did and didn’t use. 
+
+Still probably need some sort of end to this maybe. 
+
+Rethink and update to reflect decreased emphasis on Awan herself and more on Samyaza. 
+
 I probably want to cover some things that aren't literally called for, like maybe incidents in Awan's life in regards to Abel, Cain, Adam, Eve, her children, her other siblings, her niblings, her nephilim offspring.  Some of these will be needed to elaborate on other ideas I want to explore, like their natural morality.  So I think these sorts of things don't get topics created for them, at least no initially, but maybe never
+
+Similarly, there are going to be things I want to reveal that aren’t of interest to Samyaza but he’ll need to know in order to mention it. There’s no reason for him to seek out the westermarck effect, but it’s important in showing how women would be attracted to the watchers. 
+
+This idea of Samyaza as a documentarian looking at his own failed attempts at propaganda, combining storytelling, history, memoir feels like progress. I think opening with bereshit still works in this context. 
+
+Things Samyaza talks about exist either because he thinks they’re important or I do. Not every bit of his history needs to be told. Not every learning experience needs to be recorded. One of us needs a reason to include it.  All the manipulations need to be explained and thus tied to his history. He only needs to learn that which he doesn’t already know and that knowing will change the course of events. 
+
+I need to do more research on the Tonga that survived as they would have known Samyaza and probably respected or even revered him.  They would probably have helped him. 
 
 I need something minimal to do that will help me proceed. I’m thinking a folder called something like cover or include or topics or other that includes a note for each thing I want to include. Sort of chapters. Start by just listing everything I want to include. Like an outline. I like working that way. 
 
